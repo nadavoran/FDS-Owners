@@ -1,0 +1,2151 @@
+{data: `Provider_Name,script_name,Owner,Country,Team,Status,CheckCred,manager
+N/A,commercebank.scr,Ziv,USA,US,,,Galit
+N/A,desjardin_canada.scr,Ziv,USA,US,,,Galit
+N/A,desjardinbrok.scr,Ziv,USA,US,,,Galit
+N/A,envestnet.scr,Ziv,USA,US,,,Galit
+N/A,expressservice.scr,Ziv,USA,US,,,Galit
+N/A,fifththirddirect.scr,Ziv,USA,US,,,Galit
+N/A,franklintemp.scr,Ziv,USA,US,,,Galit
+N/A,greatamericanfinancial.scr,Ziv,USA,US,,,Galit
+N/A,homedepot.scr,Ziv,USA,US,,,Galit
+N/A,lenderlive.scr,Ziv,USA,US,,,Galit
+N/A,manulife401k.scr,Ziv,USA,US,,,Galit
+N/A,mesirowbenmgr.scr,Ziv,USA,US,,,Galit
+N/A,midlandinv.scr,Ziv,USA,US,,,Galit
+N/A,mortgageonline.scr,Ziv,USA,US,,,Galit
+N/A,ngwitestbank.scr,Ziv,USA,US,,,Galit
+N/A,nwplanservices.scr,Ziv,USA,US,,,Galit
+N/A,oppenheimerfunds.scr,Ziv,USA,US,,,Galit
+N/A,pnccsloans.scr,Ziv,USA,US,,,Galit
+N/A,solarcitybonds.scr,Ziv,USA,US,,,Galit
+N/A,sterlingadministartion.scr,Ziv,USA,US,,,Galit
+N/A,tcf.scr,Ziv,USA,US,,,Galit
+N/A,unofcu.scr,Ziv,USA,US,,,Galit
+N/A,wsdsr.scr,Ziv,USA,US,,,Galit
+N/A,adphumancapital.scr,Ziv,USA,US,,,Galit
+N/A,alpherafinancial.scr,Ziv,USA,US,,,Galit
+N/A,aigvalic.scr,Ziv,USA,US,,,Galit
+N/A,alaskafcu.scr,Ziv,USA,US,,,Galit
+N/A,alger.scr,Ziv,USA,US,,,Galit
+N/A,allegacyfinancial.scr,Ziv,USA,US,,,Galit
+N/A,alleganyfirst.scr,Ziv,USA,US,,,Galit
+N/A,allfirst.scr,Ziv,USA,US,,,Galit
+N/A,alliancebankau.scr,Ziv,USA,US,,,Galit
+N/A,alliancebankbiz.scr,Ziv,USA,US,,,Galit
+N/A,alliancebernstein.scr,Ziv,USA,US,,,Galit
+N/A,alliantcu.scr,Ziv,USA,US,,,Galit
+N/A,allianzlife.scr,Ziv,USA,US,,,Galit
+N/A,alliedirishbank.scr,Ziv,USA,US,,,Galit
+N/A,allignoneinvest.scr,Ziv,USA,US,,,Galit
+N/A,allstateannuity.scr,Ziv,USA,US,,,Galit
+N/A,allstateinsurance.scr,Ziv,USA,US,,,Galit
+N/A,allteltower2.scr,Ziv,USA,US,,,Galit
+N/A,assbusinessbank.scr,Ziv,USA,US,,,Galit
+N/A,beneficialloan.scr,Ziv,USA,US,,,Galit
+N/A,calstrs.scr,Ziv,USA,US,,,Galit
+N/A,aspiration.scr,Ziv,USA,US,,,Galit
+N/A,cdmretirement.scr,Ziv,USA,US,,,Galit
+N/A,chevrontexacobusinesscard.scr,Ziv,USA,US,,,Galit
+N/A,astequity.scr,Ziv,USA,US,,,Galit
+N/A,cology.scr,Ziv,USA,US,,,Galit
+N/A,consumerscreditunion.scr,Ziv,USA,US,,,Galit
+N/A,basicflex.scr,Ziv,USA,US,,,Galit
+N/A,cuna.scr,Ziv,USA,US,,,Galit
+N/A,boeingempcu.scr,Ziv,USA,US,,,Galit
+N/A,buyandhold.scr,Ziv,USA,US,,,Galit
+N/A,californiapensionconsult.scr,Ziv,USA,US,,,Galit
+N/A,cashplus.scr,Ziv,USA,US,,,Galit
+N/A,citibankinvest.scr,Ziv,USA,US,,,Galit
+N/A,citizenretirement.scr,Ziv,USA,US,,,Galit
+N/A,citizensfunds.scr,Ziv,USA,US,,,Galit
+N/A,cunetbranchtower.scr,Ziv,USA,US,,,Galit
+N/A,curian.scr,Ziv,USA,US,,,Galit
+N/A,dagbank.scr,Ziv,USA,US,,,Galit
+N/A,firstinvestor.scr,Ziv,USA,US,,,Galit
+N/A,greendotcc.scr,Ziv,USA,US,,,Galit
+N/A,hremeraldcard.scr,Ziv,USA,US,,,Galit
+N/A,hsa.scr,Ziv,USA,US,,,Galit
+N/A,hsbccanada.scr,Ziv,USA,US,,,Galit
+N/A,integriscuca.scr,Ziv,USA,US,,,Galit
+N/A,irsystems.scr,Ziv,USA,US,,,Galit
+N/A,jpmorganespp.scr,Ziv,USA,US,,,Galit
+N/A,loancaremortgage.scr,Ziv,USA,US,,,Galit
+N/A,manulifebank_canada.scr,Ziv,USA,US,,,Galit
+N/A,mccoymyers.scr,Ziv,USA,US,,,Galit
+N/A,merrilledge.scr,Ziv,USA,US,,,Galit
+N/A,millimanarup.scr,Ziv,USA,US,,,Galit
+N/A,mintaccount3000.scr,Ziv,USA,US,,,Galit
+N/A,nationalitc.scr,Ziv,USA,US,,,Galit
+N/A,neighborsfcu.scr,Ziv,USA,US,,,Galit
+N/A,nolanfinancial.scr,Ziv,USA,US,,,Galit
+N/A,paypalaccess.scr,Ziv,USA,US,,,Galit
+N/A,pcfinancial_canada.scr,Ziv,USA,US,,,Galit
+N/A,plan.scr,Ziv,USA,US,,,Galit
+N/A,pluslive.scr,Ziv,USA,US,,,Galit
+N/A,profunds.scr,Ziv,USA,US,,,Galit
+N/A,retirepartnertower.scr,Ziv,USA,US,,,Galit
+N/A,thinkorswim.scr,Ziv,USA,US,,,Galit
+N/A,troweprice.scr,Ziv,USA,US,,,Galit
+N/A,ufpstudentloan.scr,Ziv,USA,US,,,Galit
+N/A,unionbankcal.scr,Ziv,USA,US,,,Galit
+N/A,univaccounting.scr,Ziv,USA,US,,,Galit
+N/A,walmartgiftcard.scr,Ziv,USA,US,,,Galit
+N/A,wexrapidpaycard.scr,Ziv,USA,US,,,Galit
+N/A,ssgaupromise529.scr,Ziv,USA,US,,,Galit
+N/A,stockcrossfinancial.scr,Ziv,USA,US,,,Galit
+N/A,tdautofinance.scr,Ziv,USA,US,,,Galit
+N/A,thriftsavingsplan.scr,Ziv,USA,US,,,Galit
+N/A,tysonbenefits.scr,Ziv,USA,US,,,Galit
+N/A,upcard.scr,Ziv,USA,US,,,Galit
+N/A,usdeloans.scr,Ziv,USA,US,,,Galit
+N/A,ustrustcompna.scr,Ziv,USA,US,,,Galit
+N/A,utahhousingcorp.scr,Ziv,USA,US,,,Galit
+N/A,valero.scr,Ziv,USA,US,,,Galit
+N/A,vanderbiltmort.scr,Ziv,USA,US,,,Galit
+N/A,wedbushsecu.scr,Ziv,USA,US,,,Galit
+N/A,wwistower.scr,Ziv,USA,US,,,Galit
+N/A,utahpowercu.scr,Ziv,USA,US,,,Galit
+N/A,amerinationalloan.scr,Ziv,USA,US,,,Galit
+N/A,alerus.scr,Wissam,USA,US,,,Galit
+N/A,openbank.scr,Wissam,USA,US,,,Galit
+N/A,brinksprepaidmastercard.scr,Wissam,USA,US,,,Galit
+N/A,connectyourcare.scr,Wissam,USA,US,,,Galit
+N/A,eqbankcanada.scr,Wissam,USA,US,,,Galit
+N/A,inhousekonytower.scr,Wissam,USA,US,,,Galit
+N/A,kiva.scr,Wissam,USA,US,,,Galit
+N/A,mccoymyersapi.scr,Wissam,USA,US,,,Galit
+N/A,rbsccbiz.scr,Wissam,USA,US,,,Galit
+N/A,allyautofinance_canada.scr,Wissam,USA,US,,,Galit
+N/A,bankofsf.scr,Wissam,USA,US,,,Galit
+N/A,bessemertrust.scr,Wissam,USA,US,,,Galit
+N/A,chase_canada.scr,Wissam,USA,US,,,Galit
+N/A,commonwealthannuity.scr,Wissam,USA,US,,,Galit
+N/A,crosscountry.scr,Wissam,USA,US,,,Galit
+N/A,emigrantdirect.scr,Wissam,USA,US,,,Galit
+N/A,firstmercantile.scr,Wissam,USA,US,,,Galit
+N/A,marriott401k.scr,Wissam,USA,US,,,Galit
+N/A,whiteeaglecu.scr,Wissam,USA,US,,,Galit
+N/A,farmcredit.scr,Wissam,USA,US,,,Galit
+N/A,fnbtower.scr,Wissam,USA,US,,,Galit
+N/A,gotomycard.scr,Wissam,USA,US,,,Galit
+N/A,lafpp.scr,Wissam,USA,US,,,Galit
+N/A,mercedesbenzfinancial.scr,Wissam,USA,US,,,Galit
+N/A,moneymgt.scr,Wissam,USA,US,,,Galit
+N/A,northerntrust.scr,Wissam,USA,US,,,Galit
+N/A,phfassociation.scr,Wissam,USA,US,,,Galit
+N/A,stateuniversityretirement.scr,Wissam,USA,US,,,Galit
+N/A,umbbank.scr,Wissam,USA,US,,,Galit
+N/A,netexchangeinvestor.scr,Wissam,USA,US,,,Galit
+N/A,acsmellonhsa.scr,Wissam,USA,US,,,Galit
+N/A,dellfinancial.scr,Wissam,USA,US,,,Galit
+N/A,ecsiborrowers.scr,Wissam,USA,US,,,Galit
+N/A,firsttennessee.scr,Wissam,USA,US,,,Galit
+N/A,gemoneytowerbiz.scr,Wissam,USA,US,,,Galit
+N/A,inhousefinacletower.scr,Wissam,USA,US,,,Galit
+N/A,mfsaccess.scr,Wissam,USA,US,,,Galit
+N/A,rushcard.scr,Wissam,USA,US,,,Galit
+N/A,sibankingtower.scr,Wissam,USA,US,,,Galit
+N/A,symitartower.scr,Wissam,USA,US,,,Galit
+N/A,websterbank.scr,Wissam,USA,US,,,Galit
+N/A,ccbank.scr,Wissam,USA,US,,,Galit
+N/A,1pointhsa.scr,Wissam,USA,US,,,Galit
+N/A,21stcentury.scr,Wissam,USA,US,,,Galit
+N/A,401kplanaccess.scr,Wissam,USA,US,,,Galit
+N/A,401kstar.scr,Wissam,USA,US,,,Galit
+N/A,aa.scr,Wissam,USA,US,,,Galit
+N/A,abcu.scr,Wissam,USA,US,,,Galit
+N/A,abecu.scr,Wissam,USA,US,,,Galit
+N/A,abnamromortgage.scr,Wissam,USA,US,,,Galit
+N/A,abrahamrosacoop.scr,Wissam,USA,US,,,Galit
+N/A,abundantadvisor.scr,Wissam,USA,US,,,Galit
+N/A,abwatley.scr,Wissam,USA,US,,,Galit
+N/A,accessorfunds.scr,Wissam,USA,US,,,Galit
+N/A,acclaimbenefits.scr,Wissam,USA,US,,,Galit
+N/A,account3000.scr,Wissam,USA,US,,,Galit
+N/A,accreditedhome.scr,Wissam,USA,US,,,Galit
+N/A,acctlynx.scr,Wissam,USA,US,,,Galit
+N/A,accurecord.scr,Wissam,USA,US,,,Galit
+N/A,achievacu.scr,Wissam,USA,US,,,Galit
+N/A,acshrsolutions.scr,Wissam,USA,US,,,Galit
+N/A,addisonavenue.scr,Wissam,USA,US,,,Galit
+N/A,adecco.scr,Wissam,USA,US,,,Galit
+N/A,adpdeferredcompplan.scr,Wissam,USA,US,,,Galit
+N/A,adpflexdirect.scr,Wissam,USA,US,,,Galit
+N/A,adportfolios.scr,Wissam,USA,US,,,Galit
+N/A,advisorcentral.scr,Wissam,USA,US,,,Galit
+N/A,advisorchannel.scr,Wissam,USA,US,,,Galit
+N/A,advisorenterprise.scr,Wissam,USA,US,,,Galit
+N/A,aegismortcorp.scr,Wissam,USA,US,,,Galit
+N/A,afford.scr,Wissam,USA,US,,,Galit
+N/A,aftechcu.scr,Wissam,USA,US,,,Galit
+N/A,aigcorporate.scr,Wissam,USA,US,,,Galit
+N/A,aigroyalallianceadvisor.scr,Wissam,USA,US,,,Galit
+N/A,aigsunamerica.scr,Wissam,USA,US,,,Galit
+N/A,aiminvestments.scr,Wissam,USA,US,,,Galit
+N/A,alaska401kbenefits.scr,Wissam,USA,US,,,Galit
+N/A,alaskaair.scr,Wissam,USA,US,,,Galit
+N/A,alltimetower.scr,Wissam,USA,US,,,Galit
+N/A,alturacu.scr,Wissam,USA,US,,,Galit
+N/A,american.scr,Wissam,USA,US,,,Galit
+N/A,americanbankcc.scr,Wissam,USA,US,,,Galit
+N/A,americanfamily.scr,Wissam,USA,US,,,Galit
+N/A,americanfundsadviser.scr,Wissam,USA,US,,,Galit
+N/A,americanskan.scr,Wissam,USA,US,,,Galit
+N/A,americredit.scr,Wissam,USA,US,,,Galit
+N/A,ameriprise401k.scr,Wissam,USA,US,,,Galit
+N/A,ameriquestamc.scr,Wissam,USA,US,,,Galit
+N/A,amexfinins.scr,Wissam,USA,US,,,Galit
+N/A,amexrewards.scr,Wissam,USA,US,,,Galit
+N/A,amsouth.scr,Wissam,USA,US,,,Galit
+N/A,amwestair.scr,Wissam,USA,US,,,Galit
+N/A,ana.scr,Wissam,USA,US,,,Galit
+N/A,angelogordon.scr,Wissam,USA,US,,,Galit
+N/A,arcadiafinancial.scr,Wissam,USA,US,,,Galit
+N/A,arecibocoop.scr,Wissam,USA,US,,,Galit
+N/A,ariscorpinvestments.scr,Wissam,USA,US,,,Galit
+N/A,arkansasnationalbank.scr,Wissam,USA,US,,,Galit
+N/A,arrowheadcu.scr,Wissam,USA,US,,,Galit
+N/A,assuranthealth.scr,Wissam,USA,US,,,Galit
+N/A,astoriabasic.scr,Wissam,USA,US,,,Galit
+N/A,ataairlines.scr,Wissam,USA,US,,,Galit
+N/A,atandt.scr,Wissam,USA,US,,,Galit
+N/A,audiamericaloanfinancial.scr,Wissam,USA,US,,,Galit
+N/A,austindcp.scr,Wissam,USA,US,,,Galit
+N/A,autofcu.scr,Wissam,USA,US,,,Galit
+N/A,avelom.scr,Wissam,USA,US,,,Galit
+N/A,bancobilbao.scr,Wissam,USA,US,,,Galit
+N/A,bancocontinental.scr,Wissam,USA,US,,,Galit
+N/A,bancopopular401k.scr,Wissam,USA,US,,,Galit
+N/A,bancopopularna.scr,Wissam,USA,US,,,Galit
+N/A,banistmo.scr,Wissam,USA,US,,,Galit
+N/A,bankatlanticcashmgmt.scr,Wissam,USA,US,,,Galit
+N/A,bankfirst.scr,Wissam,USA,US,,,Galit
+N/A,bankleumi.scr,Wissam,USA,US,,,Galit
+N/A,banklinktower.scr,Wissam,USA,US,,,Galit
+N/A,bankmobile.scr,Wissam,USA,US,,,Galit
+N/A,bankofamericainves.scr,Wissam,USA,US,,,Galit
+N/A,bankofbermuda.scr,Wissam,USA,US,,,Galit
+N/A,bankrakyat.scr,Wissam,USA,US,,,Galit
+N/A,baptistcu.scr,Wissam,USA,US,,,Galit
+N/A,barclayswealthamericas.scr,Wissam,USA,US,,,Galit
+N/A,barclayswealthbank.scr,Wissam,USA,US,,,Galit
+N/A,basescript.scr,Wissam,USA,US,,,Galit
+N/A,basescript_V2.scr,Wissam,USA,US,,,Galit
+N/A,basescript_WIRE.scr,Wissam,USA,US,,,Galit
+N/A,bbttamlink.scr,Wissam,USA,US,,,Galit
+N/A,beaconinvesting.scr,Wissam,USA,US,,,Galit
+N/A,benefitconsultants.scr,Wissam,USA,US,,,Galit
+N/A,benefitsdirect.scr,Wissam,USA,US,,,Galit
+N/A,benefitsgroupwwinves.scr,Wissam,USA,US,,,Galit
+N/A,benfingroup.scr,Wissam,USA,US,,,Galit
+N/A,bestbuygiftcard.scr,Wissam,USA,US,,,Galit
+N/A,bestwestern.scr,Wissam,USA,US,,,Galit
+N/A,bfsfcu.scr,Wissam,USA,US,,,Galit
+N/A,bhesc.scr,Wissam,USA,US,,,Galit
+N/A,bidwell.scr,Wissam,USA,US,,,Galit
+N/A,billmelater.scr,Wissam,USA,US,,,Galit
+N/A,bnpparibas_canada.scr,Wissam,USA,US,,,Galit
+N/A,bnymellon.scr,Wissam,USA,US,,,Galit
+N/A,bnymellonwealthmanagement.scr,Wissam,USA,US,,,Galit
+N/A,bnymystock.scr,Wissam,USA,US,,,Galit
+N/A,boeingcompany.scr,Wissam,USA,US,,,Galit
+N/A,bofainvestments.scr,Wissam,USA,US,,,Galit
+N/A,bofaplans.scr,Wissam,USA,US,,,Galit
+N/A,bofaprivate.scr,Wissam,USA,US,,,Galit
+N/A,bofaretirement.scr,Wissam,USA,US,,,Galit
+N/A,bofasecurities.scr,Wissam,USA,US,,,Galit
+N/A,boftexasmtg.scr,Wissam,USA,US,,,Galit
+N/A,bpbusinesscc.scr,Wissam,USA,US,,,Galit
+N/A,bpsecurities.scr,Wissam,USA,US,,,Galit
+N/A,britishairways.scr,Wissam,USA,US,,,Galit
+N/A,broadcort.scr,Wissam,USA,US,,,Galit
+N/A,bucsfcu.scr,Wissam,USA,US,,,Galit
+N/A,butlerwickinvest.scr,Wissam,USA,US,,,Galit
+N/A,cacu.scr,Wissam,USA,US,,,Galit
+N/A,cadentfin.scr,Wissam,USA,US,,,Galit
+N/A,cajamediterraneocam.scr,Wissam,USA,US,,,Galit
+N/A,calstate9cu.scr,Wissam,USA,US,,,Galit
+N/A,calwinfoodstamps.scr,Wissam,USA,US,,,Galit
+N/A,campbellfcu.scr,Wissam,USA,US,,,Galit
+N/A,canadanationalbank.scr,Wissam,USA,US,,,Galit
+N/A,cap1loan.scr,Wissam,USA,US,,,Galit
+N/A,capfed.scr,Wissam,USA,US,,,Galit
+N/A,capitalcitysavings.scr,Wissam,USA,US,,,Galit
+N/A,capretirementservices.scr,Wissam,USA,US,,,Galit
+N/A,cardmemberservices.scr,Wissam,USA,US,,,Galit
+N/A,cardservicetower.scr,Wissam,USA,US,,,Galit
+N/A,carico.scr,Wissam,USA,US,,,Galit
+N/A,carybank.scr,Wissam,USA,US,,,Galit
+N/A,cathfcu.scr,Wissam,USA,US,,,Galit
+N/A,CCBank_Beacon.scr,Wissam,USA,US,,,Galit
+N/A,ccbankbimtest.scr,Wissam,USA,US,,,Galit
+N/A,CCBrokerage.scr,Wissam,USA,US,,,Galit
+N/A,ccms.scr,Wissam,USA,US,,,Galit
+N/A,cellularsouth.scr,Wissam,USA,US,,,Galit
+N/A,centerpoint401k.scr,Wissam,USA,US,,,Galit
+N/A,centierbankira.scr,Wissam,USA,US,,,Galit
+N/A,centralmort.scr,Wissam,USA,US,,,Galit
+N/A,centralpacific.scr,Wissam,USA,US,,,Galit
+N/A,centralplains.scr,Wissam,USA,US,,,Galit
+N/A,centralstatesfunds.scr,Wissam,USA,US,,,Galit
+N/A,ceridianbenefits.scr,Wissam,USA,US,,,Galit
+N/A,ceservices.scr,Wissam,USA,US,,,Galit
+N/A,cfipro.scr,Wissam,USA,US,,,Galit
+N/A,cfsloans.scr,Wissam,USA,US,,,Galit
+N/A,chardsnyder.scr,Wissam,USA,US,,,Galit
+N/A,chaseefundscard.scr,Wissam,USA,US,,,Galit
+N/A,chaserewards.scr,Wissam,USA,US,,,Galit
+N/A,checkfree.scr,Wissam,USA,US,,,Galit
+N/A,cheesecakegiftcard.scr,Wissam,USA,US,,,Galit
+N/A,chevrontexacocards.scr,Wissam,USA,US,,,Galit
+N/A,chevronvalley.scr,Wissam,USA,US,,,Galit
+N/A,choosemyrewards.scr,Wissam,USA,US,,,Galit
+N/A,cignatrade.scr,Wissam,USA,US,,,Galit
+N/A,citiada.scr,Wissam,USA,US,,,Galit
+N/A,citibank.scr,Wissam,USA,US,,,Galit
+N/A,citibankgovt.scr,Wissam,USA,US,,,Galit
+N/A,citibankhsa.scr,Wissam,USA,US,,,Galit
+N/A,citibankpr.scr,Wissam,USA,US,,,Galit
+N/A,citibankstudentloan.scr,Wissam,USA,US,,,Galit
+N/A,citicctowertwo.scr,Wissam,USA,US,,,Galit
+N/A,citicommercial.scr,Wissam,USA,US,,,Galit
+N/A,citifinancialmortgage.scr,Wissam,USA,US,,,Galit
+N/A,citigroupprivateinves.scr,Wissam,USA,US,,,Galit
+N/A,citiresidential.scr,Wissam,USA,US,,,Galit
+N/A,citisponsorconnect.scr,Wissam,USA,US,,,Galit
+N/A,citizensbank_canada.scr,Wissam,USA,US,,,Galit
+N/A,citynationalportfolio.scr,Wissam,USA,US,,,Galit
+N/A,clarebank.scr,Wissam,USA,US,,,Galit
+N/A,clarkcapitalmgt.scr,Wissam,USA,US,,,Galit
+N/A,clcservicing.scr,Wissam,USA,US,,,Galit
+N/A,clickpay.scr,Wissam,USA,US,,,Galit
+N/A,clout.scr,Wissam,USA,US,,,Galit
+N/A,cloverbeltcu.scr,Wissam,USA,US,,,Galit
+N/A,cmsbenefits.scr,Wissam,USA,US,,,Galit
+N/A,cmservices.scr,Wissam,USA,US,,,Galit
+N/A,cnlservice.scr,Wissam,USA,US,,,Galit
+N/A,coastalfcu.scr,Wissam,USA,US,,,Galit
+N/A,coldwellbankeronline.scr,Wissam,USA,US,,,Galit
+N/A,coletaylormtg.scr,Wissam,USA,US,,,Galit
+N/A,collegeillinois.scr,Wissam,USA,US,,,Galit
+N/A,collegesavingsmd.scr,Wissam,USA,US,,,Galit
+N/A,combank.scr,Wissam,USA,US,,,Galit
+N/A,comericamonarch.scr,Wissam,USA,US,,,Galit
+N/A,comfcufl.scr,Wissam,USA,US,,,Galit
+N/A,commbankcentca.scr,Wissam,USA,US,,,Galit
+N/A,commcardservice.scr,Wissam,USA,US,,,Galit
+N/A,commcu_mb_canada.scr,Wissam,USA,US,,,Galit
+N/A,commercialbank.scr,Wissam,USA,US,,,Galit
+N/A,commonwealthpenn.scr,Wissam,USA,US,,,Galit
+N/A,communityfgmortgage.scr,Wissam,USA,US,,,Galit
+N/A,conedison.scr,Wissam,USA,US,,,Galit
+N/A,configurationmanager.scr,Wissam,USA,US,,,Galit
+N/A,consolidatedfcu.scr,Wissam,USA,US,,,Galit
+N/A,consolidatedresorts.scr,Wissam,USA,US,,,Galit
+N/A,consumercreditcs.scr,Wissam,USA,US,,,Galit
+N/A,contair.scr,Wissam,USA,US,,,Galit
+N/A,contourvisadebit.scr,Wissam,USA,US,,,Galit
+N/A,cornerstoneels.scr,Wissam,USA,US,,,Galit
+N/A,corvettecc.scr,Wissam,USA,US,,,Galit
+N/A,costep.scr,Wissam,USA,US,,,Galit
+N/A,coveredca.scr,Wissam,USA,US,,,Galit
+N/A,ctctfcu.scr,Wissam,USA,US,,,Galit
+N/A,ctxmortgage.scr,Wissam,USA,US,,,Galit
+N/A,cuanytimetower_canada.scr,Wissam,USA,US,,,Galit
+N/A,cucard.scr,Wissam,USA,US,,,Galit
+N/A,cucmortgage.scr,Wissam,USA,US,,,Galit
+N/A,cumberlandcounty.scr,Wissam,USA,US,,,Galit
+N/A,cunabrokerage.scr,Wissam,USA,US,,,Galit
+N/A,cunapathfinder.scr,Wissam,USA,US,,,Galit
+N/A,curewards.scr,Wissam,USA,US,,,Galit
+N/A,customeredge.scr,Wissam,USA,US,,,Galit
+N/A,cvshealth.scr,Wissam,USA,US,,,Galit
+N/A,dailyaccesscorp.scr,Wissam,USA,US,,,Galit
+N/A,davisfunds.scr,Wissam,USA,US,,,Galit
+N/A,decaturcu.scr,Wissam,USA,US,,,Galit
+N/A,deepgreenbank.scr,Wissam,USA,US,,,Galit
+N/A,deferralinvestments.scr,Wissam,USA,US,,,Galit
+N/A,delawarestate.scr,Wissam,USA,US,,,Galit
+N/A,deltaairlines.scr,Wissam,USA,US,,,Galit
+N/A,denton.scr,Wissam,USA,US,,,Galit
+N/A,digitalinsight_cc_only.scr,Wissam,USA,US,,,Galit
+N/A,directmerchants.scr,Wissam,USA,US,,,Galit
+N/A,dmutual.scr,Wissam,USA,US,,,Galit
+N/A,dodgecoxfunds.scr,Wissam,USA,US,,,Galit
+N/A,dollarsavings.scr,Wissam,USA,US,,,Galit
+N/A,dowchemical.scr,Wissam,USA,US,,,Galit
+N/A,drivefinancial.scr,Wissam,USA,US,,,Galit
+N/A,dscu.scr,Wissam,USA,US,,,Galit
+N/A,dstvision.scr,Wissam,USA,US,,,Galit
+N/A,ebsbenefitsolutions.scr,Wissam,USA,US,,,Galit
+N/A,ebstower.scr,Wissam,USA,US,,,Galit
+N/A,ebucks.scr,Wissam,USA,US,,,Galit
+N/A,ecu.scr,Wissam,USA,US,,,Galit
+N/A,edifysynergent.scr,Wissam,USA,US,,,Galit
+N/A,edreyfusbrokerage.scr,Wissam,USA,US,,,Galit
+N/A,edstower.scr,Wissam,USA,US,,,Galit
+N/A,eloan.scr,Wissam,USA,US,,,Galit
+N/A,eloansav.scr,Wissam,USA,US,,,Galit
+N/A,emeryfcu.scr,Wissam,USA,US,,,Galit
+N/A,emretiree.scr,Wissam,USA,US,,,Galit
+N/A,encoreonline.scr,Wissam,USA,US,,,Galit
+N/A,enterprisecu.scr,Wissam,USA,US,,,Galit
+N/A,entfcu.scr,Wissam,USA,US,,,Galit
+N/A,entfcupp_testing.scr,Wissam,USA,US,,,Galit
+N/A,entrust.scr,Wissam,USA,US,,,Galit
+N/A,epassporte.scr,Wissam,USA,US,,,Galit
+N/A,epchonors.scr,Wissam,USA,US,,,Galit
+N/A,eppicard.scr,Wissam,USA,US,,,Galit
+N/A,eprimevestbrok.scr,Wissam,USA,US,,,Galit
+N/A,equiserve.scr,Wissam,USA,US,,,Galit
+N/A,equitaccepcorp.scr,Wissam,USA,US,,,Galit
+N/A,esfin.scr,Wissam,USA,US,,,Galit
+N/A,esptower.scr,Wissam,USA,US,,,Galit
+N/A,estatusmortgagelibrary_V2,Wissam,USA,US,,,Galit
+N/A,estatusmortgagelibrary_V2.scr,Wissam,USA,US,,,Galit
+N/A,etrade_canada.scr,Wissam,USA,US,,,Galit
+N/A,etrademortgage.scr,Wissam,USA,US,,,Galit
+N/A,etreasury.scr,Wissam,USA,US,,,Galit
+N/A,evb.scr,Wissam,USA,US,,,Galit
+N/A,evergreenconnect.scr,Wissam,USA,US,,,Galit
+N/A,evergreenwatower.scr,Wissam,USA,US,,,Galit
+N/A,exantebank.scr,Wissam,USA,US,,,Galit
+N/A,excitemail.scr,Wissam,USA,US,,,Galit
+N/A,expertplan.scr,Wissam,USA,US,,,Galit
+N/A,expertplanretirement.scr,Wissam,USA,US,,,Galit
+N/A,exxonmobil.scr,Wissam,USA,US,,,Galit
+N/A,ezcardlibrary_V2.scr,Wissam,USA,US,,,Galit
+N/A,family1stcu.scr,Wissam,USA,US,,,Galit
+N/A,farwestbank.scr,Wissam,USA,US,,,Galit
+N/A,fashionbugreditcard.scr,Wissam,USA,US,,,Galit
+N/A,fcbscbusiness.scr,Wissam,USA,US,,,Galit
+N/A,fcnb.scr,Wissam,USA,US,,,Galit
+N/A,fedexpackaging.scr,Wissam,USA,US,,,Galit
+N/A,ffbusa.scr,Wissam,USA,US,,,Galit
+N/A,fgordon.scr,Wissam,USA,US,,,Galit
+N/A,fidelityconnect.scr,Wissam,USA,US,,,Galit
+N/A,fidelitynational.scr,Wissam,USA,US,,,Galit
+N/A,fifththirdcard.scr,Wissam,USA,US,,,Galit
+N/A,final.scr,Wissam,USA,US,,,Galit
+N/A,fingerhut.scr,Wissam,USA,US,,,Galit
+N/A,fintegra.scr,Wissam,USA,US,,,Galit
+N/A,firstalliedsec.scr,Wissam,USA,US,,,Galit
+N/A,firstcastlefcu.scr,Wissam,USA,US,,,Galit
+N/A,firstcitizensonline.scr,Wissam,USA,US,,,Galit
+N/A,firstcommbank.scr,Wissam,USA,US,,,Galit
+N/A,firstcommonwealthbank.scr,Wissam,USA,US,,,Galit
+N/A,firstentertainment.scr,Wissam,USA,US,,,Galit
+N/A,firstequitycard.scr,Wissam,USA,US,,,Galit
+N/A,firstfedlacrosse.scr,Wissam,USA,US,,,Galit
+N/A,firsthorizoninvestment.scr,Wissam,USA,US,,,Galit
+N/A,firstmerit.scr,Wissam,USA,US,,,Galit
+N/A,firstmortagecompany.scr,Wissam,USA,US,,,Galit
+N/A,firstnationwide.scr,Wissam,USA,US,,,Galit
+N/A,firstnationwidemortgage.scr,Wissam,USA,US,,,Galit
+N/A,firstniagara.scr,Wissam,USA,US,,,Galit
+N/A,firsttennesseebusiness.scr,Wissam,USA,US,,,Galit
+N/A,firstunionbrokerage.scr,Wissam,USA,US,,,Galit
+N/A,firstvirg401k.scr,Wissam,USA,US,,,Galit
+N/A,fiservadvserv.scr,Wissam,USA,US,,,Galit
+N/A,fiservias.scr,Wissam,USA,US,,,Galit
+N/A,fiservinvestor.scr,Wissam,USA,US,,,Galit
+N/A,fiservtower.scr,Wissam,USA,US,,,Galit
+N/A,flexamerica.scr,Wissam,USA,US,,,Galit
+N/A,flexiblebenefit.scr,Wissam,USA,US,,,Galit
+N/A,floridacip.scr,Wissam,USA,US,,,Galit
+N/A,fnbbiz.scr,Wissam,USA,US,,,Galit
+N/A,fnbmarin.scr,Wissam,USA,US,,,Galit
+N/A,fnbseiling.scr,Wissam,USA,US,,,Galit
+N/A,folioinvesting.scr,Wissam,USA,US,,,Galit
+N/A,formsofttower.scr,Wissam,USA,US,,,Galit
+N/A,fortcommunitycu.scr,Wissam,USA,US,,,Galit
+N/A,forwardfund.scr,Wissam,USA,US,,,Galit
+N/A,foundersfunds.scr,Wissam,USA,US,,,Galit
+N/A,franklincapital.scr,Wissam,USA,US,,,Galit
+N/A,freedomone.scr,Wissam,USA,US,,,Galit
+N/A,frontierair.scr,Wissam,USA,US,,,Galit
+N/A,ftjfundchoice.scr,Wissam,USA,US,,,Galit
+N/A,fw_di_cc_hack.scr,Wissam,USA,US,,,Galit
+N/A,gardnerbank.scr,Wissam,USA,US,,,Galit
+N/A,gasfcu.scr,Wissam,USA,US,,,Galit
+N/A,gebenifits401k.scr,Wissam,USA,US,,,Galit
+N/A,gefinancial.scr,Wissam,USA,US,,,Galit
+N/A,gehealthfin.scr,Wissam,USA,US,,,Galit
+N/A,geinterest.scr,Wissam,USA,US,,,Galit
+N/A,gemoneycc.scr,Wissam,USA,US,,,Galit
+N/A,gemoneyloans.scr,Wissam,USA,US,,,Galit
+N/A,gemoneytower.scr,Wissam,USA,US,,,Galit
+N/A,georgiasavings.scr,Wissam,USA,US,,,Galit
+N/A,gftforex.scr,Wissam,USA,US,,,Galit
+N/A,giecoinsurance.scr,Wissam,USA,US,,,Galit
+N/A,giftcollegeinvest.scr,Wissam,USA,US,,,Galit
+N/A,gimlicu_canada.scr,Wissam,USA,US,,,Galit
+N/A,globalcreditunion.scr,Wissam,USA,US,,,Galit
+N/A,gmacmortgage.scr,Wissam,USA,US,,,Galit
+N/A,goldman360.scr,Wissam,USA,US,,,Galit
+N/A,goldmanglobalcash.scr,Wissam,USA,US,,,Galit
+N/A,goldpoints.scr,Wissam,USA,US,,,Galit
+N/A,googlewallet.scr,Wissam,USA,US,,,Galit
+N/A,gopayment.scr,Wissam,USA,US,,,Galit
+N/A,graduatelever.scr,Wissam,USA,US,,,Galit
+N/A,grandcu_canada.scr,Wissam,USA,US,,,Galit
+N/A,greatamericanlife.scr,Wissam,USA,US,,,Galit
+N/A,greendot.scr,Wissam,USA,US,,,Galit
+N/A,grupobanco.scr,Wissam,USA,US,,,Galit
+N/A,guarantybankca.scr,Wissam,USA,US,,,Galit
+N/A,guarantybankmtg.scr,Wissam,USA,US,,,Galit
+N/A,guardianinvestor.scr,Wissam,USA,US,,,Galit
+N/A,gunnallen.scr,Wissam,USA,US,,,Galit
+N/A,gworldcard.scr,Wissam,USA,US,,,Galit
+N/A,hanco.scr,Wissam,USA,US,,,Galit
+N/A,hapocomcu.scr,Wissam,USA,US,,,Galit
+N/A,harborbank.scr,Wissam,USA,US,,,Galit
+N/A,hargreaveslansdown.scr,Wissam,USA,US,,,Galit
+N/A,harleysville.scr,Wissam,USA,US,,,Galit
+N/A,hawaiianair.scr,Wissam,USA,US,,,Galit
+N/A,hbcardbusquicken.scr,Wissam,USA,US,,,Galit
+N/A,hbnettower.scr,Wissam,USA,US,,,Galit
+N/A,hcprocessing.scr,Wissam,USA,US,,,Galit
+N/A,healthcaregov.scr,Wissam,USA,US,,,Galit
+N/A,hertz.scr,Wissam,USA,US,,,Galit
+N/A,hewittbestbuy.scr,Wissam,USA,US,,,Galit
+N/A,hewittdell.scr,Wissam,USA,US,,,Galit
+N/A,hewittesol.scr,Wissam,USA,US,,,Galit
+N/A,hewittfsa.scr,Wissam,USA,US,,,Galit
+N/A,hewittmattel.scr,Wissam,USA,US,,,Galit
+N/A,hiltonhonors.scr,Wissam,USA,US,,,Galit
+N/A,hmecu.scr,Wissam,USA,US,,,Galit
+N/A,holyrosary.scr,Wissam,USA,US,,,Galit
+N/A,homebanking2tower_canada.scr,Wissam,USA,US,,,Galit
+N/A,homefedinvest.scr,Wissam,USA,US,,,Galit
+N/A,homelandfederal.scr,Wissam,USA,US,,,Galit
+N/A,homeshoppe.scr,Wissam,USA,US,,,Galit
+N/A,homeside.scr,Wissam,USA,US,,,Galit
+N/A,hooterscc.scr,Wissam,USA,US,,,Galit
+N/A,horacemi.scr,Wissam,USA,US,,,Galit
+N/A,hotmail.scr,Wissam,USA,US,,,Galit
+N/A,householdcard.scr,Wissam,USA,US,,,Galit
+N/A,hsbcpanama.scr,Wissam,USA,US,,,Galit
+N/A,hsbcsecurities.scr,Wissam,USA,US,,,Galit
+N/A,hsecu.scr,Wissam,USA,US,,,Galit
+N/A,huntingtontrust.scr,Wissam,USA,US,,,Galit
+N/A,hyattgold.scr,Wissam,USA,US,,,Galit
+N/A,iaffbanking.scr,Wissam,USA,US,,,Galit
+N/A,iamnationalpension.scr,Wissam,USA,US,,,Galit
+N/A,ibanktech.scr,Wissam,USA,US,,,Galit
+N/A,ibanktower.scr,Wissam,USA,US,,,Galit
+N/A,ibstower2.scr,Wissam,USA,US,,,Galit
+N/A,icapitalinvest.scr,Wissam,USA,US,,,Galit
+N/A,icmg.scr,Wissam,USA,US,,,Galit
+N/A,iconadvisor.scr,Wissam,USA,US,,,Galit
+N/A,idahocsp.scr,Wissam,USA,US,,,Galit
+N/A,idapp.scr,Wissam,USA,US,,,Galit
+N/A,imaginecard.scr,Wissam,USA,US,,,Galit
+N/A,ims.scr,Wissam,USA,US,,,Galit
+N/A,independenceair.scr,Wissam,USA,US,,,Galit
+N/A,independentadvisor.scr,Wissam,USA,US,,,Galit
+N/A,independentconsultants.scr,Wissam,USA,US,,,Galit
+N/A,infinityinsurance.scr,Wissam,USA,US,,,Galit
+N/A,ingdirect.scr,Wissam,USA,US,,,Galit
+N/A,ingfinancial.scr,Wissam,USA,US,,,Galit
+N/A,ingservicecenter.scr,Wissam,USA,US,,,Galit
+N/A,innovesttower.scr,Wissam,USA,US,,,Galit
+N/A,intassetsadvisory.scr,Wissam,USA,US,,,Galit
+N/A,intech.scr,Wissam,USA,US,,,Galit
+N/A,interactivebrokersaman.scr,Wissam,USA,US,,,Galit
+N/A,interakt.scr,Wissam,USA,US,,,Galit
+N/A,intercapitalmanage.scr,Wissam,USA,US,,,Galit
+N/A,interiorbusiness.scr,Wissam,USA,US,,,Galit
+N/A,intermountaincu.scr,Wissam,USA,US,,,Galit
+N/A,intrustinvestments.scr,Wissam,USA,US,,,Galit
+N/A,investorsedge.scr,Wissam,USA,US,,,Galit
+N/A,investorslife.scr,Wissam,USA,US,,,Galit
+N/A,investtrade.scr,Wissam,USA,US,,,Galit
+N/A,iowastudentloan.scr,Wissam,USA,US,,,Galit
+N/A,ipn.scr,Wissam,USA,US,,,Galit
+N/A,irwinbank.scr,Wissam,USA,US,,,Galit
+N/A,irwinmort.scr,Wissam,USA,US,,,Galit
+N/A,isrdiscount.scr,Wissam,USA,US,,,Galit
+N/A,jaguarloan.scr,Wissam,USA,US,,,Galit
+N/A,janus.scr,Wissam,USA,US,,,Galit
+N/A,jared.scr,Wissam,USA,US,,,Galit
+N/A,jcpmastercard.scr,Wissam,USA,US,,,Galit
+N/A,jdretiree.scr,Wissam,USA,US,,,Galit
+N/A,jetblue.scr,Wissam,USA,US,,,Galit
+N/A,jetcu.scr,Wissam,USA,US,,,Galit
+N/A,jnrincorparated.scr,Wissam,USA,US,,,Galit
+N/A,jordancu.scr,Wissam,USA,US,,,Galit
+N/A,jpmorganchase.scr,Wissam,USA,US,,,Galit
+N/A,jpmorganclearingtower.scr,Wissam,USA,US,,,Galit
+N/A,jpmorganesource.scr,Wissam,USA,US,,,Galit
+N/A,jpmorganretirement.scr,Wissam,USA,US,,,Galit
+N/A,kapitallinv.scr,Wissam,USA,US,,,Galit
+N/A,kayjewel.scr,Wissam,USA,US,,,Galit
+N/A,kearneyfcu.scr,Wissam,USA,US,,,Galit
+N/A,kellyservices.scr,Wissam,USA,US,,,Galit
+N/A,kemperinvesannuity.scr,Wissam,USA,US,,,Galit
+N/A,kennesawstate.scr,Wissam,USA,US,,,Galit
+N/A,kerncounty.scr,Wissam,USA,US,,,Galit
+N/A,kibble.scr,Wissam,USA,US,,,Galit
+N/A,kibble401k.scr,Wissam,USA,US,,,Galit
+N/A,kitco.scr,Wissam,USA,US,,,Galit
+N/A,kohls.scr,Wissam,USA,US,,,Galit
+N/A,kohlsconnection.scr,Wissam,USA,US,,,Galit
+N/A,kohlshopping.scr,Wissam,USA,US,,,Galit
+N/A,kootenay_canada.scr,Wissam,USA,US,,,Galit
+N/A,kutxa.scr,Wissam,USA,US,,,Galit
+N/A,kwbstock.scr,Wissam,USA,US,,,Galit
+N/A,lakecityinvest.scr,Wissam,USA,US,,,Galit
+N/A,lasalletrustview.scr,Wissam,USA,US,,,Galit
+N/A,lawrencejohnson.scr,Wissam,USA,US,,,Galit
+N/A,leggetteactuaries.scr,Wissam,USA,US,,,Galit
+N/A,leggmasonbrk.scr,Wissam,USA,US,,,Galit
+N/A,leggmasoncs.scr,Wissam,USA,US,,,Galit
+N/A,lenovo401k.scr,Wissam,USA,US,,,Galit
+N/A,leumitradeusa.scr,Wissam,USA,US,,,Galit
+N/A,libertymutual.scr,Wissam,USA,US,,,Galit
+N/A,libertystate.scr,Wissam,USA,US,,,Galit
+N/A,lincolnautoloan.scr,Wissam,USA,US,,,Galit
+N/A,lincolnfghub.scr,Wissam,USA,US,,,Galit
+N/A,loantolearn.scr,Wissam,USA,US,,,Galit
+N/A,local98cu.scr,Wissam,USA,US,,,Galit
+N/A,lockwoodcentral.scr,Wissam,USA,US,,,Galit
+N/A,lordabbett401k.scr,Wissam,USA,US,,,Galit
+N/A,lowescreditcard.scr,Wissam,USA,US,,,Galit
+N/A,loweslife401k.scr,Wissam,USA,US,,,Galit
+N/A,loyal3.scr,Wissam,USA,US,,,Galit
+N/A,lplbranchnet.scr,Wissam,USA,US,,,Galit
+N/A,macatawa.scr,Wissam,USA,US,,,Galit
+N/A,macomb.scr,Wissam,USA,US,,,Galit
+N/A,macquariemort.scr,Wissam,USA,US,,,Galit
+N/A,macysgiftcard.scr,Wissam,USA,US,,,Galit
+N/A,mainebank.scr,Wissam,USA,US,,,Galit
+N/A,majesticcard.scr,Wissam,USA,US,,,Galit
+N/A,manfinancial.scr,Wissam,USA,US,,,Galit
+N/A,manpowerintl.scr,Wissam,USA,US,,,Galit
+N/A,manulifefinancial_canada.scr,Wissam,USA,US,,,Galit
+N/A,marketplacebank.scr,Wissam,USA,US,,,Galit
+N/A,marriottre.scr,Wissam,USA,US,,,Galit
+N/A,massmutualexecutive.scr,Wissam,USA,US,,,Galit
+N/A,massmutualtrustco.scr,Wissam,USA,US,,,Galit
+N/A,mazdausaloan.scr,Wissam,USA,US,,,Galit
+N/A,mbnarewards.scr,Wissam,USA,US,,,Galit
+N/A,mcbbankcard.scr,Wissam,USA,US,,,Galit
+N/A,mcm.scr,Wissam,USA,US,,,Galit
+N/A,mdtower.scr,Wissam,USA,US,,,Galit
+N/A,mellon.scr,Wissam,USA,US,,,Galit
+N/A,melloninvestor.scr,Wissam,USA,US,,,Galit
+N/A,membersfstcu.scr,Wissam,USA,US,,,Galit
+N/A,mercantilebank.scr,Wissam,USA,US,,,Galit
+N/A,mercantiletower.scr,Wissam,USA,US,,,Galit
+N/A,merceradvisors.scr,Wissam,USA,US,,,Galit
+N/A,merchantstrust.scr,Wissam,USA,US,,,Galit
+N/A,merrilllynchcharitable.scr,Wissam,USA,US,,,Galit
+N/A,mesirowfin.scr,Wissam,USA,US,,,Galit
+N/A,metlifeadv.scr,Wissam,USA,US,,,Galit
+N/A,metlifeannuity.scr,Wissam,USA,US,,,Galit
+N/A,metlifedcg.scr,Wissam,USA,US,,,Galit
+N/A,metlifeinvestor.scr,Wissam,USA,US,,,Galit
+N/A,metliferesources.scr,Wissam,USA,US,,,Galit
+N/A,metlifetracker.scr,Wissam,USA,US,,,Galit
+N/A,metrobank.scr,Wissam,USA,US,,,Galit
+N/A,mexicostd.scr,Wissam,USA,US,,,Galit
+N/A,michnat.scr,Wissam,USA,US,,,Galit
+N/A,micommercial.scr,Wissam,USA,US,,,Galit
+N/A,microplace.scr,Wissam,USA,US,,,Galit
+N/A,midatlanticcorp.scr,Wissam,USA,US,,,Galit
+N/A,midcoastfcu.scr,Wissam,USA,US,,,Galit
+N/A,midoregonfcu.scr,Wissam,USA,US,,,Galit
+N/A,midwestexpress.scr,Wissam,USA,US,,,Galit
+N/A,minnesota.scr,Wissam,USA,US,,,Galit
+N/A,minpers.scr,Wissam,USA,US,,,Galit
+N/A,miocard.scr,Wissam,USA,US,,,Galit
+N/A,missionfcu.scr,Wissam,USA,US,,,Galit
+N/A,mmapraxis.scr,Wissam,USA,US,,,Galit
+N/A,modestocom.scr,Wissam,USA,US,,,Galit
+N/A,moneymicc.scr,Wissam,USA,US,,,Galit
+N/A,morganstanley401k.scr,Wissam,USA,US,,,Galit
+N/A,morningstar.scr,Wissam,USA,US,,,Galit
+N/A,mortgageit.scr,Wissam,USA,US,,,Galit
+N/A,moser.scr,Wissam,USA,US,,,Galit
+N/A,msdwonline.scr,Wissam,USA,US,,,Galit
+N/A,msrewards.scr,Wissam,USA,US,,,Galit
+N/A,mtgservtower.scr,Wissam,USA,US,,,Galit
+N/A,mutualadvantage.scr,Wissam,USA,US,,,Galit
+N/A,mutualofomahabank.scr,Wissam,USA,US,,,Galit
+N/A,myaccountchase.scr,Wissam,USA,US,,,Galit
+N/A,mycapitaloneprepaid.scr,Wissam,USA,US,,,Galit
+N/A,mycardinfolibrary.scr,Wissam,USA,US,,,Galit
+N/A,mydiscountbroker.scr,Wissam,USA,US,,,Galit
+N/A,myecount.scr,Wissam,USA,US,,,Galit
+N/A,myeddebt.scr,Wissam,USA,US,,,Galit
+N/A,myetf.scr,Wissam,USA,US,,,Galit
+N/A,myloanaccount.scr,Wissam,USA,US,,,Galit
+N/A,mynewjersy.scr,Wissam,USA,US,,,Galit
+N/A,mystatestreet.scr,Wissam,USA,US,,,Galit
+N/A,mytmrs.scr,Wissam,USA,US,,,Galit
+N/A,natcitybuxx.scr,Wissam,USA,US,,,Galit
+N/A,natcityinvestment.scr,Wissam,USA,US,,,Galit
+N/A,nationalbanknz.scr,Wissam,USA,US,,,Galit
+N/A,nationalcity.scr,Wissam,USA,US,,,Galit
+N/A,nationalcitycc.scr,Wissam,USA,US,,,Galit
+N/A,nationwidebank.scr,Wissam,USA,US,,,Galit
+N/A,nationwideprofessional.scr,Wissam,USA,US,,,Galit
+N/A,nationwideprovconnect.scr,Wissam,USA,US,,,Galit
+N/A,natphiltrust.scr,Wissam,USA,US,,,Galit
+N/A,nbsbenefits.scr,Wissam,USA,US,,,Galit
+N/A,ncfundsshareholder.scr,Wissam,USA,US,,,Galit
+N/A,neafcu.scr,Wissam,USA,US,,,Galit
+N/A,netscapemail.scr,Wissam,USA,US,,,Galit
+N/A,netxpro.scr,Wissam,USA,US,,,Galit
+N/A,netzeetower2.scr,Wissam,USA,US,,,Galit
+N/A,newcentury.scr,Wissam,USA,US,,,Galit
+N/A,newenglandfinancial.scr,Wissam,USA,US,,,Galit
+N/A,newhorizonscu.scr,Wissam,USA,US,,,Galit
+N/A,newtrierfcu.scr,Wissam,USA,US,,,Galit
+N/A,newyorkhealth.scr,Wissam,USA,US,,,Galit
+N/A,newyorklifeft.scr,Wissam,USA,US,,,Galit
+N/A,nextcard.scr,Wissam,USA,US,,,Galit
+N/A,nmaa.scr,Wissam,USA,US,,,Galit
+N/A,noislandbus.scr,Wissam,USA,US,,,Galit
+N/A,northgrummanfcu.scr,Wissam,USA,US,,,Galit
+N/A,northrim.scr,Wissam,USA,US,,,Galit
+N/A,northwestair.scr,Wissam,USA,US,,,Galit
+N/A,northwestern401k.scr,Wissam,USA,US,,,Galit
+N/A,northwesternmis.scr,Wissam,USA,US,,,Galit
+N/A,nrcsfcu.scr,Wissam,USA,US,,,Galit
+N/A,nreca.scr,Wissam,USA,US,,,Galit
+N/A,nsbonlinemortgage.scr,Wissam,USA,US,,,Galit
+N/A,nuunion.scr,Wissam,USA,US,,,Galit
+N/A,nuveenexchange.scr,Wissam,USA,US,,,Galit
+N/A,nuvell.scr,Wissam,USA,US,,,Galit
+N/A,nvpers.scr,Wissam,USA,US,,,Galit
+N/A,nwbankinves.scr,Wissam,USA,US,,,Galit
+N/A,nwlinsurance.scr,Wissam,USA,US,,,Galit
+N/A,nyliferetirement.scr,Wissam,USA,US,,,Galit
+N/A,nylifesupple.scr,Wissam,USA,US,,,Galit
+N/A,nysocs.scr,Wissam,USA,US,,,Galit
+N/A,oakvcb.scr,Wissam,USA,US,,,Galit
+N/A,oasfcu.scr,Wissam,USA,US,,,Galit
+N/A,obopay.scr,Wissam,USA,US,,,Galit
+N/A,octfcu.scr,Wissam,USA,US,,,Galit
+N/A,omahaannuities.scr,Wissam,USA,US,,,Galit
+N/A,onebox.scr,Wissam,USA,US,,,Galit
+N/A,onlinekeybank.scr,Wissam,USA,US,,,Galit
+N/A,onyx.scr,Wissam,USA,US,,,Galit
+N/A,oppenheimercontrib.scr,Wissam,USA,US,,,Galit
+N/A,oppenheimerfundsadvisor.scr,Wissam,USA,US,,,Galit
+N/A,opteumfs.scr,Wissam,USA,US,,,Galit
+N/A,optionone.scr,Wissam,USA,US,,,Galit
+N/A,optionsxpress.scr,Wissam,USA,US,,,Galit
+N/A,orbit.scr,Wissam,USA,US,,,Galit
+N/A,ornlfcu.scr,Wissam,USA,US,,,Galit
+N/A,osfa.scr,Wissam,USA,US,,,Galit
+N/A,ositower.scr,Wissam,USA,US,,,Galit
+N/A,pacificsi.scr,Wissam,USA,US,,,Galit
+N/A,pamperedchef.scr,Wissam,USA,US,,,Galit
+N/A,pardafcu.scr,Wissam,USA,US,,,Galit
+N/A,path2college529.scr,Wissam,USA,US,,,Galit
+N/A,patriotbank.scr,Wissam,USA,US,,,Galit
+N/A,paycheck.scr,Wissam,USA,US,,,Galit
+N/A,paychex.scr,Wissam,USA,US,,,Galit
+N/A,paymentnet.scr,Wissam,USA,US,,,Galit
+N/A,payoneer.scr,Wissam,USA,US,,,Galit
+N/A,pbhg.scr,Wissam,USA,US,,,Galit
+N/A,pctcu.scr,Wissam,USA,US,,,Galit
+N/A,pearlcard.scr,Wissam,USA,US,,,Galit
+N/A,pennsers.scr,Wissam,USA,US,,,Galit
+N/A,pennsylvaniatrust.scr,Wissam,USA,US,,,Galit
+N/A,peoplelink.scr,Wissam,USA,US,,,Galit
+N/A,peoplesbnkctcc.scr,Wissam,USA,US,,,Galit
+N/A,peoplesfannin.scr,Wissam,USA,US,,,Galit
+N/A,pershing.scr,Wissam,USA,US,,,Galit
+N/A,philipscu.scr,Wissam,USA,US,,,Galit
+N/A,piperjaffray.scr,Wissam,USA,US,,,Galit
+N/A,pm_ameritrade.scr,Wissam,USA,US,,,Galit
+N/A,pm_pershing.scr,Wissam,USA,US,,,Galit
+N/A,pm_tdwaterhouse.scr,Wissam,USA,US,,,Galit
+N/A,pmanet.scr,Wissam,USA,US,,,Galit
+N/A,pncbenefits.scr,Wissam,USA,US,,,Galit
+N/A,pncpinaclebus.scr,Wissam,USA,US,,,Galit
+N/A,pncwealthmgtaka.scr,Wissam,USA,US,,,Galit
+N/A,popularinsurance.scr,Wissam,USA,US,,,Galit
+N/A,ppenheimerfundsplan.scr,Wissam,USA,US,,,Galit
+N/A,preprodbank.scr,Wissam,USA,US,,,Galit
+N/A,primeac.scr,Wissam,USA,US,,,Galit
+N/A,principalfgfp.scr,Wissam,USA,US,,,Galit
+N/A,principalrm.scr,Wissam,USA,US,,,Galit
+N/A,priorityclub.scr,Wissam,USA,US,,,Galit
+N/A,proequities.scr,Wissam,USA,US,,,Galit
+N/A,progressive.scr,Wissam,USA,US,,,Galit
+N/A,propay.scr,Wissam,USA,US,,,Galit
+N/A,provident.scr,Wissam,USA,US,,,Galit
+N/A,providentmd.scr,Wissam,USA,US,,,Galit
+N/A,prudentialbache.scr,Wissam,USA,US,,,Galit
+N/A,prudentialcc.scr,Wissam,USA,US,,,Galit
+N/A,pscucardlibrary_V2.scr,Wissam,USA,US,,,Galit
+N/A,pscussocardlibrary.scr,Wissam,USA,US,,,Galit
+N/A,publix.scr,Wissam,USA,US,,,Galit
+N/A,purdueefcu.scr,Wissam,USA,US,,,Galit
+N/A,q2tower_api.scr,Wissam,USA,US,,,Galit
+N/A,q2tower_cconly.scr,Wissam,USA,US,,,Galit
+N/A,qolbank_dev.scr,Wissam,USA,US,,,Galit
+N/A,quebradillascoop.scr,Wissam,USA,US,,,Galit
+N/A,quickandreilly.scr,Wissam,USA,US,,,Galit
+N/A,quptower.scr,Wissam,USA,US,,,Galit
+N/A,qwestpension.scr,Wissam,USA,US,,,Galit
+N/A,railroadretirement.scr,Wissam,USA,US,,,Galit
+N/A,rainierpacific.scr,Wissam,USA,US,,,Galit
+N/A,ratnakarbankpersonal.scr,Wissam,USA,US,,,Galit
+N/A,raytheon.scr,Wissam,USA,US,,,Galit
+N/A,rbcbankrewa.scr,Wissam,USA,US,,,Galit
+N/A,rbcdainrauscher.scr,Wissam,USA,US,,,Galit
+N/A,refcoprivateclient.scr,Wissam,USA,US,,,Galit
+N/A,refundcard.scr,Wissam,USA,US,,,Galit
+N/A,registrartransfercmp.scr,Wissam,USA,US,,,Galit
+N/A,reliancetrust.scr,Wissam,USA,US,,,Galit
+N/A,republicsec.scr,Wissam,USA,US,,,Galit
+N/A,reservefunds.scr,Wissam,USA,US,,,Galit
+N/A,reservefundseq.scr,Wissam,USA,US,,,Galit
+N/A,retrievetower.scr,Wissam,USA,US,,,Galit
+N/A,rgpremierbank.scr,Wissam,USA,US,,,Galit
+N/A,richmondheritage.scr,Wissam,USA,US,,,Galit
+N/A,rilo.scr,Wissam,USA,US,,,Galit
+N/A,riversidenational.scr,Wissam,USA,US,,,Galit
+N/A,roadloans.scr,Wissam,USA,US,,,Galit
+N/A,rocklandtrust.scr,Wissam,USA,US,,,Galit
+N/A,roguefcu.scr,Wissam,USA,US,,,Galit
+N/A,rtcisis.scr,Wissam,USA,US,,,Galit
+N/A,rteliteadvisors.scr,Wissam,USA,US,,,Galit
+N/A,rtwebpdp.scr,Wissam,USA,US,,,Galit
+N/A,rvstower.scr,Wissam,USA,US,,,Galit
+N/A,ryanbeck.scr,Wissam,USA,US,,,Galit
+N/A,saabfinancial.scr,Wissam,USA,US,,,Galit
+N/A,safecoinsurance.scr,Wissam,USA,US,,,Galit
+N/A,safranatbank.scr,Wissam,USA,US,,,Galit
+N/A,sageonlineemployer.scr,Wissam,USA,US,,,Galit
+N/A,sageworth.scr,Wissam,USA,US,,,Galit
+N/A,sandsbrosinv.scr,Wissam,USA,US,,,Galit
+N/A,santanderconsumer.scr,Wissam,USA,US,,,Galit
+N/A,santandersecurities.scr,Wissam,USA,US,,,Galit
+N/A,saskatooncu_canada.scr,Wissam,USA,US,,,Galit
+N/A,saxonmortgage.scr,Wissam,USA,US,,,Galit
+N/A,sbmauritius.scr,Wissam,USA,US,,,Galit
+N/A,sbtrust.scr,Wissam,USA,US,,,Galit
+N/A,schwabinstitutional.scr,Wissam,USA,US,,,Galit
+N/A,scomplan.scr,Wissam,USA,US,,,Galit
+N/A,scotiaitrade.scr,Wissam,USA,US,,,Galit
+N/A,scottwhite.scr,Wissam,USA,US,,,Galit
+N/A,scriptlibrary.scr,Wissam,USA,US,,,Galit
+N/A,scudder.scr,Wissam,USA,US,,,Galit
+N/A,scudderflex.scr,Wissam,USA,US,,,Galit
+N/A,sdakotars.scr,Wissam,USA,US,,,Galit
+N/A,searsgiftcard.scr,Wissam,USA,US,,,Galit
+N/A,securitiesamerica.scr,Wissam,USA,US,,,Galit
+N/A,securitiesamericaadv.scr,Wissam,USA,US,,,Galit
+N/A,securityretirementtower.scr,Wissam,USA,US,,,Galit
+N/A,seiinvestments.scr,Wissam,USA,US,,,Galit
+N/A,selectportserv.scr,Wissam,USA,US,,,Galit
+N/A,selfinvest.scr,Wissam,USA,US,,,Galit
+N/A,sharebuilder.scr,Wissam,USA,US,,,Galit
+N/A,sharefaxcu.scr,Wissam,USA,US,,,Galit
+N/A,shinhan.scr,Wissam,USA,US,,,Galit
+N/A,sierrafcu.scr,Wissam,USA,US,,,Galit
+N/A,sigmafour.scr,Wissam,USA,US,,,Galit
+N/A,silvercrest.scr,Wissam,USA,US,,,Galit
+N/A,skylight.scr,Wissam,USA,US,,,Galit
+N/A,skywards.scr,Wissam,USA,US,,,Galit
+N/A,soecontroller.scr,Wissam,USA,US,,,Galit
+N/A,sogoinvest.scr,Wissam,USA,US,,,Galit
+N/A,somersettrust.scr,Wissam,USA,US,,,Galit
+N/A,sonepcofcu.scr,Wissam,USA,US,,,Galit
+N/A,soonerstatebank.scr,Wissam,USA,US,,,Galit
+N/A,soundmindinvesting.scr,Wissam,USA,US,,,Galit
+N/A,southtexasfcu.scr,Wissam,USA,US,,,Galit
+N/A,southtrust.scr,Wissam,USA,US,,,Galit
+N/A,southwestair.scr,Wissam,USA,US,,,Galit
+N/A,southwestsecurities.scr,Wissam,USA,US,,,Galit
+N/A,sovereignwealth.scr,Wissam,USA,US,,,Galit
+N/A,sparkasse.scr,Wissam,USA,US,,,Galit
+N/A,sponsorinsight.scr,Wissam,USA,US,,,Galit
+N/A,ssbfarwell.scr,Wissam,USA,US,,,Galit
+N/A,standardfed.scr,Wissam,USA,US,,,Galit
+N/A,stanfordfcu.scr,Wissam,USA,US,,,Galit
+N/A,stanleyhunt.scr,Wissam,USA,US,,,Galit
+N/A,staples.scr,Wissam,USA,US,,,Galit
+N/A,starbucks.scr,Wissam,USA,US,,,Galit
+N/A,starbucksgiftcard.scr,Wissam,USA,US,,,Galit
+N/A,starwoodguest.scr,Wissam,USA,US,,,Galit
+N/A,stbankinves.scr,Wissam,USA,US,,,Galit
+N/A,stebenadvisors.scr,Wissam,USA,US,,,Galit
+N/A,steinmartcc.scr,Wissam,USA,US,,,Galit
+N/A,sterlingonline.scr,Wissam,USA,US,,,Galit
+N/A,sterlingtrust.scr,Wissam,USA,US,,,Galit
+N/A,stifelnico.scr,Wissam,USA,US,,,Galit
+N/A,stratas.scr,Wissam,USA,US,,,Galit
+N/A,strsohio.scr,Wissam,USA,US,,,Galit
+N/A,sungard.scr,Wissam,USA,US,,,Galit
+N/A,sunguardtower.scr,Wissam,USA,US,,,Galit
+N/A,suntrustedu.scr,Wissam,USA,US,,,Galit
+N/A,suzukiautoloan.scr,Wissam,USA,US,,,Galit
+N/A,symetraparticipant.scr,Wissam,USA,US,,,Galit
+N/A,tampabayfcu.scr,Wissam,USA,US,,,Galit
+N/A,targetbank.scr,Wissam,USA,US,,,Galit
+N/A,tbgfinancial.scr,Wissam,USA,US,,,Galit
+N/A,tdbankusa.scr,Wissam,USA,US,,,Galit
+N/A,tdwaterhouse.scr,Wissam,USA,US,,,Galit
+N/A,teachersretirement.scr,Wissam,USA,US,,,Galit
+N/A,teamsterups.scr,Wissam,USA,US,,,Galit
+N/A,technologycu.scr,Wissam,USA,US,,,Galit
+N/A,terranova.scr,Wissam,USA,US,,,Galit
+N/A,testronbusiness.scr,Wissam,USA,US,,,Galit
+N/A,texasdow.scr,Wissam,USA,US,,,Galit
+N/A,texasib.scr,Wissam,USA,US,,,Galit
+N/A,themayco.scr,Wissam,USA,US,,,Galit
+N/A,thriventportfolio.scr,Wissam,USA,US,,,Galit
+N/A,tidewatercc.scr,Wissam,USA,US,,,Galit
+N/A,townandcountrycu.scr,Wissam,USA,US,,,Galit
+N/A,trademonster.scr,Wissam,USA,US,,,Galit
+N/A,tradepmrprimevest.scr,Wissam,USA,US,,,Galit
+N/A,travelers.scr,Wissam,USA,US,,,Galit
+N/A,treasurydirect.scr,Wissam,USA,US,,,Galit
+N/A,tremontfunds.scr,Wissam,USA,US,,,Galit
+N/A,trgold.scr,Wissam,USA,US,,,Galit
+N/A,tricountynational.scr,Wissam,USA,US,,,Galit
+N/A,trpcsavingsplan.scr,Wissam,USA,US,,,Galit
+N/A,trsgam.scr,Wissam,USA,US,,,Galit
+N/A,trsillinois.scr,Wissam,USA,US,,,Galit
+N/A,trustudentfirst.scr,Wissam,USA,US,,,Galit
+N/A,tsgtower.scr,Wissam,USA,US,,,Galit
+N/A,ual.scr,Wissam,USA,US,,,Galit
+N/A,ubsone.scr,Wissam,USA,US,,,Galit
+N/A,uccu.scr,Wissam,USA,US,,,Galit
+N/A,ufbdirect.scr,Wissam,USA,US,,,Galit
+N/A,ukrainian_canada.scr,Wissam,USA,US,,,Galit
+N/A,umbtrustdirect.scr,Wissam,USA,US,,,Galit
+N/A,umpquatreasurypro.scr,Wissam,USA,US,,,Galit
+N/A,unfcuvisacc.scr,Wissam,USA,US,,,Galit
+N/A,unicornfs.scr,Wissam,USA,US,,,Galit
+N/A,unihealth.scr,Wissam,USA,US,,,Galit
+N/A,unioncounty.scr,Wissam,USA,US,,,Galit
+N/A,unjspf.scr,Wissam,USA,US,,,Galit
+N/A,unocalfcu.scr,Wissam,USA,US,,,Galit
+N/A,up2drive.scr,Wissam,USA,US,,,Galit
+N/A,upsidecard.scr,Wissam,USA,US,,,Galit
+N/A,usair.scr,Wissam,USA,US,,,Galit
+N/A,usbankhealthsaving.scr,Wissam,USA,US,,,Galit
+N/A,usbankretirement.scr,Wissam,USA,US,,,Galit
+N/A,usbreliacard.scr,Wissam,USA,US,,,Galit
+N/A,uscapital.scr,Wissam,USA,US,,,Galit
+N/A,usersasptower.scr,Wissam,USA,US,,,Galit
+N/A,uspostalservice.scr,Wissam,USA,US,,,Galit
+N/A,usscofcu.scr,Wissam,USA,US,,,Galit
+N/A,ussenatefcu.scr,Wissam,USA,US,,,Galit
+N/A,utahfirstcu.scr,Wissam,USA,US,,,Galit
+N/A,uwcu.scr,Wissam,USA,US,,,Galit
+N/A,vacationclub.scr,Wissam,USA,US,,,Galit
+N/A,vantagedmc.scr,Wissam,USA,US,,,Galit
+N/A,venturafcu.scr,Wissam,USA,US,,,Galit
+N/A,virginiahda.scr,Wissam,USA,US,,,Galit
+N/A,virtualbank.scr,Wissam,USA,US,,,Galit
+N/A,visaextras.scr,Wissam,USA,US,,,Galit
+N/A,visainfo.scr,Wissam,USA,US,,,Galit
+N/A,visionfcu.scr,Wissam,USA,US,,,Galit
+N/A,volkswagen.scr,Wissam,USA,US,,,Galit
+N/A,volvofinance.scr,Wissam,USA,US,,,Galit
+N/A,vrsdcp.scr,Wissam,USA,US,,,Galit
+N/A,wachoviabank.scr,Wissam,USA,US,,,Galit
+N/A,wachoviaconnection.scr,Wissam,USA,US,,,Galit
+N/A,wachoviaexeservice.scr,Wissam,USA,US,,,Galit
+N/A,wachoviatower.scr,Wissam,USA,US,,,Galit
+N/A,wallstreetinv.scr,Wissam,USA,US,,,Galit
+N/A,walmartvisagiftcard.scr,Wissam,USA,US,,,Galit
+N/A,waltdisneycompany.scr,Wissam,USA,US,,,Galit
+N/A,washmutual.scr,Wissam,USA,US,,,Galit
+N/A,waypointbank.scr,Wissam,USA,US,,,Galit
+N/A,wblnktower.scr,Wissam,USA,US,,,Galit
+N/A,wccunion.scr,Wissam,USA,US,,,Galit
+N/A,webbankcard.scr,Wissam,USA,US,,,Galit
+N/A,wellsempstock.scr,Wissam,USA,US,,,Galit
+N/A,wellsfargoelitecard.scr,Wissam,USA,US,,,Galit
+N/A,wellsinvest.scr,Wissam,USA,US,,,Galit
+N/A,wellsrealest.scr,Wissam,USA,US,,,Galit
+N/A,wellsrewards.scr,Wissam,USA,US,,,Galit
+N/A,wellssharebuilder.scr,Wissam,USA,US,,,Galit
+N/A,wescotower.scr,Wissam,USA,US,,,Galit
+N/A,wespacretirement.scr,Wissam,USA,US,,,Galit
+N/A,westbend.scr,Wissam,USA,US,,,Galit
+N/A,westcore.scr,Wissam,USA,US,,,Galit
+N/A,westernbank.scr,Wissam,USA,US,,,Galit
+N/A,westerncu.scr,Wissam,USA,US,,,Galit
+N/A,westernlifeinsurance.scr,Wissam,USA,US,,,Galit
+N/A,westhillsassetman.scr,Wissam,USA,US,,,Galit
+N/A,westport.scr,Wissam,USA,US,,,Galit
+N/A,westtexas.scr,Wissam,USA,US,,,Galit
+N/A,wfnnbcctower.scr,Wissam,USA,US,,,Galit
+N/A,wienmalkin.scr,Wissam,USA,US,,,Galit
+N/A,williamblair.scr,Wissam,USA,US,,,Galit
+N/A,wilmingtonfundinvest.scr,Wissam,USA,US,,,Galit
+N/A,wiredplastic.scr,Wissam,USA,US,,,Galit
+N/A,woodstonecu.scr,Wissam,USA,US,,,Galit
+N/A,workerscuinv.scr,Wissam,USA,US,,,Galit
+N/A,workingassets.scr,Wissam,USA,US,,,Galit
+N/A,wrhambrecht.scr,Wissam,USA,US,,,Galit
+N/A,wrighthennipen.scr,Wissam,USA,US,,,Galit
+N/A,wslcorporation.scr,Wissam,USA,US,,,Galit
+N/A,wupmastercard.scr,Wissam,USA,US,,,Galit
+N/A,wvuefcu.scr,Wissam,USA,US,,,Galit
+N/A,wystarglobal.scr,Wissam,USA,US,,,Galit
+N/A,xpresstrade.scr,Wissam,USA,US,,,Galit
+N/A,yahoomail.scr,Wissam,USA,US,,,Galit
+N/A,yourmortgage.scr,Wissam,USA,US,,,Galit
+N/A,zeliffwallaceinves.scr,Wissam,USA,US,,,Galit
+N/A,zions.scr,Wissam,USA,US,,,Galit
+N/A,membersfirstpa.scr,Wissam,USA,US,,,Galit
+N/A,bancopopular.scr,Wissam,USA,US,,,Galit
+N/A,arvestmortgage.scr,Wissam,USA,US,,,Galit
+N/A,atlanticfcu.scr,Wissam,USA,US,,,Galit
+N/A,floridaprepaidcp.scr,Wissam,USA,US,,,Galit
+N/A,foodlion.scr,Wissam,USA,US,,,Galit
+N/A,chryslercapital.scr,Wissam,USA,US,,,Galit
+N/A,collegesave.scr,Wissam,USA,US,,,Galit
+N/A,firstcitizenstower.scr,Wissam,USA,US,,,Galit
+N/A,fisrelius.scr,Wissam,USA,US,,,Galit
+N/A,forumcunew.scr,Wissam,USA,US,,,Galit
+N/A,fundex.scr,Wissam,USA,US,,,Galit
+N/A,gaheritagefcu.scr,Wissam,USA,US,,,Galit
+N/A,gatewayone.scr,Wissam,USA,US,,,Galit
+N/A,genetservice.scr,Wissam,USA,US,,,Galit
+N/A,greenstonefarmcs.scr,Wissam,USA,US,,,Galit
+N/A,hancockbankbiz.scr,Wissam,USA,US,,,Galit
+N/A,hartfordretirement.scr,Wissam,USA,US,,,Galit
+N/A,higherone.scr,Wissam,USA,US,,,Galit
+N/A,hilliard.scr,Wissam,USA,US,,,Galit
+N/A,hsabank.scr,Wissam,USA,US,,,Galit
+N/A,hsbcbankcanada.scr,Wissam,USA,US,,,Galit
+N/A,hsbcoffshore.scr,Wissam,USA,US,,,Galit
+N/A,icicibank_canada.scr,Wissam,USA,US,,,Galit
+N/A,mycampusloan.scr,Wissam,USA,US,,,Galit
+N/A,sharetectower.scr,Wissam,USA,US,,,Galit
+N/A,startright.scr,Wissam,USA,US,,,Galit
+N/A,virtualbrokers.scr,Wissam,USA,US,,,Galit
+N/A,corillianonline.scr,Maya,USA,US,,,Galit
+N/A,firstcitizens.scr,Wissam,USA,US,,,Galit
+N/A,betterment.scr,Wissam,USA,US,,,Galit
+N/A,mckinsey401k.scr,Wissam,USA,US,,,Galit
+N/A,ctfscc.scr,Wissam,USA,US,,,Galit
+N/A,goldenonecu.scr,Wissam,USA,US,,,Galit
+N/A,ingdirectcanada.scr,Wissam,USA,US,,,Galit
+N/A,interactivebrokers.scr,Wissam,USA,US,,,Galit
+N/A,synchronybank.scr,Wissam,USA,US,,,Galit
+N/A,arizonasrs.scr,Wissam,USA,US,,,Galit
+N/A,arvest.scr,Noam,USA,US,,,Galit
+N/A,asbbankbiz_nz.scr,Marc,USA,US,,,Galit
+N/A,avatar.scr,Dor,USA,US,,,Galit
+N/A,bmwfin.scr,Daniel,USA,US,,,Galit
+N/A,caliberloan.scr,Noam,USA,US,,,Galit
+N/A,canadacord.scr,Wissam,USA,US,,,Galit
+N/A,ciinvestments.scr,Noam,USA,US,,,Galit
+N/A,comericapersonaltrust.scr,Marc,USA,US,,,Galit
+N/A,conradsigelactuaries.scr,Dor,USA,US,,,Galit
+N/A,cucards_canada.scr,Daniel,USA,US,,,Galit
+N/A,daimlertruckfinancial.scr,Noam,USA,US,,,Galit
+N/A,desjardinwealthmgt.scr,Wissam,USA,US,,,Galit
+N/A,deutschebank.scr,Noam,USA,US,,,Galit
+N/A,emoneyadvisor.scr,Marc,USA,US,,,Galit
+N/A,evansvilleff.scr,Dor,USA,US,,,Galit
+N/A,fedchoicefcu.scr,Daniel,USA,US,,,Galit
+N/A,fidelityexpress.scr,Noam,USA,US,,,Galit
+N/A,fidelityinvcanada.scr,Wissam,USA,US,,,Galit
+N/A,fiibgtower.scr,Veronik,USA,US,,,Galit
+N/A,firstagainloan.scr,Marc,USA,US,,,Galit
+N/A,firstrade.scr,Dor,USA,US,,,Galit
+N/A,fiservcommercial.scr,Daniel,USA,US,,,Galit
+N/A,flagstarmortgage.scr,Noam,USA,US,,,Galit
+N/A,fxcmtower.scr,Wissam,USA,US,,,Galit
+N/A,glenmedetrust.scr,Noam,USA,US,,,Galit
+N/A,hancockbank.scr,Marc,USA,US,,,Galit
+N/A,hartfordlife.scr,Dor,USA,US,,,Galit
+N/A,hcabenefits.scr,Daniel,USA,US,,,Galit
+N/A,hesaa.scr,Veronik,USA,US,,,Galit
+N/A,hsbcmortgage.scr,Wissam,USA,US,,,Galit
+N/A,iconnect2invest.scr,Noam,USA,US,,,Galit
+N/A,ingannuties.scr,Marc,USA,US,,,Galit
+N/A,just2trade.scr,Dor,USA,US,,,Galit
+N/A,karrbarthretirement.scr,Daniel,USA,US,,,Galit
+N/A,lacers.scr,Noam,USA,US,,,Galit
+N/A,lakemichigancunew.scr,Wissam,USA,US,,,Galit
+N/A,librofinancial_canada.scr,Noam,USA,US,,,Galit
+N/A,mercerhrsretirementtower.scr,Marc,USA,US,,,Galit
+N/A,metliferetirement.scr,Dor,USA,US,,,Galit
+N/A,michiganfirst.scr,Daniel,USA,US,,,Galit
+N/A,miretirement.scr,Noam,USA,US,,,Galit
+N/A,mms.scr,Wissam,USA,US,,,Galit
+N/A,motifinves.scr,Noam,USA,US,,,Galit
+N/A,mygiftcard.scr,Wissam,USA,US,,,Galit
+N/A,mytrs.scr,Noam,USA,US,,,Galit
+N/A,nflplayerbenefit.scr,Marc,USA,US,,,Galit
+N/A,ngwigetdatatestscript.scr,Dor,USA,US,,,Galit
+N/A,ngwitestbank_avs.scr,Daniel,USA,US,,,Galit
+N/A,nyteamfcu.scr,Noam,USA,US,,,Galit
+N/A,olaccess.scr,Wissam,USA,US,,,Galit
+N/A,ollocard.scr,Noam,USA,US,,,Galit
+N/A,openbankbiz.scr,Marc,USA,US,,,Galit
+N/A,orcc.scr,Dor,USA,US,,,Galit
+N/A,pennstfcu.scr,Daniel,USA,US,,,Galit
+N/A,pscuapcardholder.scr,Noam,USA,US,,,Galit
+N/A,psers.scr,Wissam,USA,US,,,Galit
+N/A,psrsmo.scr,Noam,USA,US,,,Galit
+N/A,rbfcu.scr,Marc,USA,US,,,Galit
+N/A,rbsccbiz_new.scr,Dor,USA,US,,,Galit
+N/A,shareowner.scr,Daniel,USA,US,,,Galit
+N/A,start.scr,Noam,USA,US,,,Galit
+N/A,suntrustinv.scr,Wissam,USA,US,,,Galit
+N/A,texasretire.scr,Noam,USA,US,,,Galit
+N/A,tibmortgage.scr,Wissam,USA,US,,,Galit
+N/A,trsga.scr,Noam,USA,US,,,Galit
+N/A,ubsequateplus.scr,Marc,USA,US,,,Galit
+N/A,unitedbankcc.scr,Dor,USA,US,,,Galit
+N/A,unitedtechnologies.scr,Daniel,USA,US,,,Galit
+N/A,usbankvisacard.scr,Noam,USA,US,,,Galit
+N/A,usglobalfunds.scr,Wissam,USA,US,,,Galit
+N/A,w2paychex.scr,Noam,USA,US,,,Galit
+N/A,worldmark.scr,Marc,USA,US,,,Galit
+N/A,boahealth.scr,Dor,USA,US,,,Galit
+N/A,firstsbar.scr,Daniel,USA,US,,,Galit
+N/A,msdw.scr,Noam,USA,US,,,Galit
+St. George Bank - Business Banking,stgeorgebank.scr,Tal,AUS,GLOBAL,,,Galit
+Caisse d'Epargne (Auvergne Limousin) - particuliers,caisseepargnefr.scr,Tal,FRA,GLOBAL,,,Galit
+Corporation Bank,corporationbank.scr,Tal,IND,GLOBAL,,,Galit
+Barclays - Personal Banking (UK) - old,barclaysbank.scr,Tal,GBR,GLOBAL,,,Galit
+Barclays - Particuliers (France) - BETA,barclaysfr.scr,Tal,FRA,GLOBAL,,,Galit
+National Australia Bank Group Limited - NAB Internet Banking (AU),nationalausbank.scr,Tal,AUS,GLOBAL,,,Galit
+Crédit Agricole- Martinique (France) - BETA,creditagricol_fr.scr,Tal,FRA,GLOBAL,,,Galit
+Kotak Mahindra Bank,kotak.scr,Tal,IND,GLOBAL,,,Galit
+Macquarie Bank - DirecTrade (Australia),macquarie.scr,Tal,AUS,GLOBAL,,,Galit
+IMB Building Society (AU),newcastle.scr,Tal,AUS,GLOBAL,,,Galit
+LCL - Le Credit Lyonnais - Acces LCL Espace Pro - BETA,creditlyonnaisbank.scr,Tal,FRA,GLOBAL,,,Galit
+Coutts Bank (UK),couttsbank.scr,Tal,GBR,GLOBAL,,,Galit
+Barclaycard Personal (UK),barclaycarduk.scr,Tal,GBR,GLOBAL,,,Galit
+Barclaycard Business (UK),barclaycardukbiz.scr,Tal,GBR,GLOBAL,,,Galit
+Bank of Scotland (Personal and Credit Card),bofscotlandbiz.scr,Tal,GBR,GLOBAL,,,Galit
+Bananacoast Credit Union (BCU) - Beta,bananacoastau.scr,Tal,AUS,GLOBAL,,,Galit
+Bank of Melbourne,bankofmelbourne.scr,Tal,AUS,GLOBAL,,,Galit
+Bank of Sydney - Beta,bankofsydneyaus.scr,Tal,AUS,GLOBAL,,,Galit
+Aldermore-Beta,aldermoreuk.scr,Tal,GBR,GLOBAL,,,Galit
+Aqua Credit Card  - Beta,aquacreditcard.scr,Tal,GBR,GLOBAL,,,Galit
+CAF Bank Online Charitable Banking,cafbankonline.scr,Tal,GBR,GLOBAL,,,Galit
+CapitalOne (UK),capitaloneuk.scr,Tal,GBR,GLOBAL,,,Galit
+United Bank of India - Retail,bankofbaroda.scr,Tal,IND,GLOBAL,,,Galit
+Bank of India - Corporate,bankofindia.scr,Tal,IND,GLOBAL,,,Galit
+N/A,concordgroupinsurance.scr,Tal,USA,BILLS,,,Galit
+N/A,geico.scr,Tal,USA,BILLS,,,Galit
+N/A,kemper.scr,Tal,USA,BILLS,,,Galit
+N/A,msfbins.scr,Tal,USA,BILLS,,,Galit
+N/A,securityfirstinsurance.scr,Tal,USA,BILLS,,,Galit
+N/A,unitrindirectinsurance.scr,Tal,USA,BILLS,,,Galit
+N/A,healthykids.scr,Tal,USA,BILLS,,,Galit
+Abu Dhabi Commercial bank - Beta,adcbuae.scr,NotSupported,Israel,ROW,,,Galit
+Abu Dhabi Commercial bank - Business Banking - Beta,adcbuaebiz.scr,NotSupported,Israel,ROW,,,Galit
+Abu Dhabi Islamic Bank (Personal Banking) - Beta,adibuae.scr,NotSupported,Israel,ROW,,,Galit
+Banco Financiero y de Ahorros Group (Bankia) - Business Banking - Beta,bfagroupbankiabiz.scr,NotSupported,Israel,ROW,,,Galit
+Equitable PCI Bank [Now BDO Bank] - Beta,equitablebankphl.scr,NotSupported,Israel,ROW,,,Galit
+First Gulf (UAE) - Beta,firstgulfuae.scr,NotSupported,Israel,ROW,,,Galit
+Kaiku Visa Prepaid Card,kaikucc.scr,NotSupported,Israel,ROW,,,Galit
+National bank of Abu Dhabi - Personal Banking - Beta,nbaduae.scr,NotSupported,Israel,ROW,,,Galit
+N/A,jwaala.scr,Noam,USA,US,,,Galit
+N/A,gmfinautoloan.scr,Noam,USA,US,,,Galit
+N/A,compassbank.scr,Noam,USA,US,,,Galit
+N/A,mdtower_canada.scr,Noam,USA,US,,,Galit
+HSBC (USA) Business Banking,hsbcbusiness.scr,Noam,USA,US,,,Galit
+N/A,americanstock.scr,Noam,USA,US,,,Galit
+N/A,myvanilla.scr,Noam,USA,US,,,Galit
+N/A,wealthsimple.scr,Noam,USA,US,,,Galit
+N/A,nissancorporation.scr,Noam,USA,US,,,Galit
+N/A,capital401k.scr,Noam,USA,US,,,Galit
+N/A,taretirement.scr,Noam,USA,US,,,Galit
+N/A,vancityvisa_canada.scr,Noam,USA,US,,,Galit
+N/A,pentagonfcu.scr,Noam,USA,US,,,Galit
+N/A,adpcard.scr,Noam,USA,US,,,Galit
+N/A,americanfidelity.scr,Noam,USA,US,,,Galit
+N/A,amexcccanada.scr,Noam,USA,US,,,Galit
+N/A,amexgiftcard.scr,Noam,USA,US,,,Galit
+N/A,annbaptistconv.scr,Noam,USA,US,,,Galit
+N/A,bancopopwebcash.scr,Noam,USA,US,,,Galit
+N/A,banknorthmortgage.scr,Noam,USA,US,,,Galit
+N/A,benefitscomplete.scr,Noam,USA,US,,,Galit
+N/A,bmoharris.scr,Noam,USA,US,,,Galit
+N/A,boktower.scr,Noam,USA,US,,,Galit
+N/A,citimortgage.scr,Noam,USA,US,,,Galit
+N/A,citizensmortgage.scr,Noam,USA,US,,,Galit
+N/A,citizensone.scr,Noam,USA,US,,,Galit
+N/A,citynationalbankcard.scr,Noam,USA,US,,,Galit
+N/A,financialhostcu.scr,Michal,USA,US,,,Galit
+N/A,hancockwhitneybank.scr,Noam,USA,US,,,Galit
+N/A,hartfordcollsav.scr,Veronik,USA,US,,,Galit
+N/A,healthequity.scr,Veronik,USA,US,,,Galit
+N/A,hudsonsbay.scr,Noam,USA,US,,,Galit
+N/A,monefinance.scr,Noam,USA,US,,,Galit
+N/A,pmsystemstower.scr,Noa,USA,US,,,Galit
+N/A,sofistudentloan.scr,Michal,USA,US,,,Galit
+N/A,sunfinancialannuity.scr,Noam,USA,US,,,Galit
+N/A,universityfcu.scr,Noam,USA,US,,,Galit
+N/A,upstart.scr,Noam,USA,US,,,Galit
+N/A,q2tower.scr,Noam,USA,US,,,Galit
+N/A,2020card.scr,Noa,USA,US,,,Galit
+N/A,account24plan.scr,Noa,USA,US,,,Galit
+N/A,accountnow.scr,Noa,USA,US,,,Galit
+N/A,amexbank.scr,Noa,USA,US,,,Galit
+N/A,assbank.scr,Noa,USA,US,,,Galit
+N/A,atyourservice.scr,Noa,USA,US,,,Galit
+N/A,bankofamericacbank.scr,Noa,USA,US,,,Galit
+N/A,bankofthewestwd.scr,Noa,USA,US,,,Galit
+N/A,bbtcc.scr,Noa,USA,US,,,Galit
+N/A,bluebirdexp.scr,Noa,USA,US,,,Galit
+N/A,boeing401k.scr,Noa,USA,US,,,Galit
+N/A,broadwaynational.scr,Noa,USA,US,,,Galit
+N/A,carddwnserv.scr,Noa,USA,US,,,Galit
+N/A,carringtonms.scr,Noa,USA,US,,,Galit
+N/A,cashcallmortgage.scr,Noa,USA,US,,,Galit
+N/A,catfinserv.scr,Noa,USA,US,,,Galit
+N/A,centralmortcom.scr,Noa,USA,US,,,Galit
+N/A,centura.scr,Noa,USA,US,,,Galit
+N/A,coinbase.scr,Noa,USA,US,,,Galit
+N/A,collegesavings529.scr,Noa,USA,US,,,Galit
+N/A,collegesavingsnebraska.scr,Noa,USA,US,,,Galit
+N/A,computershare.scr,Noa,USA,US,,,Galit
+N/A,cruisetower2.scr,Noa,USA,US,,,Galit
+N/A,dillardcc.scr,Noa,USA,US,,,Galit
+N/A,disneyshareholders.scr,Noa,USA,US,,,Galit
+N/A,ditech.scr,Noa,USA,US,,,Galit
+N/A,dollarbankbus.scr,Noa,USA,US,,,Galit
+N/A,edwardjonescanada.scr,Noa,USA,US,,,Galit
+N/A,ekonbenefits.scr,Noa,USA,US,,,Galit
+N/A,elcapensions.scr,Noa,USA,US,,,Galit
+N/A,esharesinc.scr,Noa,USA,US,,,Galit
+N/A,firstclearingtower.scr,Noa,USA,US,,,Galit
+N/A,floridaretirement.scr,Noa,USA,US,,,Galit
+N/A,foremostbank.scr,Noa,USA,US,,,Galit
+N/A,fwdfunds.scr,Noa,USA,US,,,Galit
+N/A,gecapitalbank.scr,Noa,USA,US,,,Galit
+N/A,greenwoodcu.scr,Noa,USA,US,,,Galit
+N/A,guardianrp.scr,Noa,USA,US,,,Galit
+N/A,harrisbank.scr,Noa,USA,US,,,Galit
+N/A,hbcard.scr,Noa,USA,US,,,Galit
+N/A,hhloans.scr,Noa,USA,US,,,Galit
+N/A,imrfonline.scr,Noa,USA,US,,,Galit
+N/A,investorsgroup_canada.scr,Noa,USA,US,,,Galit
+N/A,iowabank.scr,Noa,USA,US,,,Galit
+N/A,isharesinvestor.scr,Noa,USA,US,,,Galit
+N/A,isuitetower.scr,Noa,USA,US,,,Galit
+N/A,jpmorganonlinenew.scr,Noa,USA,US,,,Galit
+N/A,louisianaretirement.scr,Noa,USA,US,,,Galit
+N/A,mandt.scr,Noa,USA,US,,,Galit
+N/A,massmutual.scr,Noa,USA,US,,,Galit
+N/A,mexicoretirement.scr,Noa,USA,US,,,Galit
+N/A,miaccount.scr,Noa,USA,US,,,Galit
+N/A,morningstarportfolio.scr,Noa,USA,US,,,Galit
+N/A,msufcuws.scr,Noa,USA,US,,,Galit
+N/A,mycard.scr,Noa,USA,US,,,Galit
+N/A,mydeferralplan.scr,Noa,USA,US,,,Galit
+N/A,nationalbank_canada.scr,Noa,USA,US,,,Galit
+N/A,nationaleducation.scr,Noa,USA,US,,,Galit
+N/A,nebraskacc.scr,Noa,USA,US,,,Galit
+N/A,northforkbus.scr,Noa,USA,US,,,Galit
+N/A,nycers.scr,Noa,USA,US,,,Galit
+N/A,nystrs.scr,Noa,USA,US,,,Galit
+N/A,oasis.scr,Noa,USA,US,,,Galit
+N/A,oasistower.scr,Noa,USA,US,,,Galit
+N/A,ohionationalinves.scr,Noa,USA,US,,,Galit
+N/A,ohiopedc.scr,Noa,USA,US,,,Galit
+N/A,oppenheimerandco.scr,Noa,USA,US,,,Galit
+N/A,optum.scr,Noa,USA,US,,,Galit
+N/A,pacificcommunityonline.scr,Noa,USA,US,,,Galit
+N/A,peoplesecot.scr,Noa,USA,US,,,Galit
+N/A,pgande_biller.scr,Noa,USA,US,,,Galit
+N/A,prosper.scr,Noa,USA,US,,,Galit
+N/A,psecu.scr,Noa,USA,US,,,Galit
+N/A,quickenloans.scr,Noa,USA,US,,,Galit
+N/A,rcwilley.scr,Noa,USA,US,,,Galit
+N/A,residentialcreditsolusa.scr,Noa,USA,US,,,Galit
+N/A,rjames.scr,Noa,USA,US,,,Galit
+N/A,roscoebank.scr,Noa,USA,US,,,Galit
+N/A,securitybenefitgroup.scr,Noa,USA,US,,,Galit
+N/A,seterus.scr,Noa,USA,US,,,Galit
+N/A,simple.scr,Noa,USA,US,,,Galit
+N/A,smartusaautoloan.scr,Noa,USA,US,,,Galit
+N/A,snaponcredit.scr,Noa,USA,US,,,Galit
+N/A,southeasternebs.scr,Noa,USA,US,,,Galit
+N/A,sstinc.scr,Noa,USA,US,,,Galit
+N/A,statefarmbank.scr,Noa,USA,US,,,Galit
+N/A,swellinvesting.scr,Noa,USA,US,,,Galit
+N/A,tabidtower.scr,Noa,USA,US,,,Galit
+N/A,tmobileprepaidcard.scr,Noa,USA,US,,,Galit
+N/A,triadfinancial.scr,Noa,USA,US,,,Galit
+N/A,trowerpricecharitable.scr,Noa,USA,US,,,Galit
+N/A,ubocsmallbus.scr,Noa,USA,US,,,Galit
+N/A,umbinvestdirect.scr,Noa,USA,US,,,Galit
+N/A,ups.scr,Noa,USA,US,,,Galit
+N/A,vestedretirement.scr,Noa,USA,US,,,Galit
+N/A,victoryfunds.scr,Noa,USA,US,,,Galit
+N/A,voya.scr,Noa,USA,US,,,Galit
+N/A,wageworks.scr,Noa,USA,US,,,Galit
+N/A,walgreens.scr,Noa,USA,US,,,Galit
+N/A,wellsfargointegratedservice.scr,Noa,USA,US,,,Galit
+N/A,wellsfargoshare.scr,Noa,USA,US,,,Galit
+N/A,wexonline.scr,Noa,USA,US,,,Galit
+N/A,zionsdirectbrokerage.scr,Noa,USA,US,,,Galit
+N/A,aaaprepaidcards.scr,Noa,USA,US,,,Galit
+N/A,avfcreditunion.scr,Noa,USA,US,,,Galit
+N/A,divinvest.scr,Noa,USA,US,,,Galit
+N/A,dollarbankcash.scr,Noa,USA,US,,,Galit
+N/A,foliofn.scr,Noa,USA,US,,,Galit
+N/A,regions.scr,Noa,USA,US,,,Galit
+N/A,southlandcu.scr,Noa,USA,US,,,Galit
+N/A,synchronycommercialtower.scr,Noa,USA,US,,,Galit
+N/A,tdbanknorthcc.scr,Noa,USA,US,,,Galit
+N/A,umpquabank.scr,Noa,USA,US,,,Galit
+N/A,ameritradetower.scr,Noa,USA,US,,,Galit
+N/A,bellcocu.scr,Noa,USA,US,,,Galit
+N/A,bmwgroupfin.scr,Noa,USA,US,,,Galit
+N/A,bofaedddebitcard.scr,Noa,USA,US,,,Galit
+N/A,calpers.scr,Noa,USA,US,,,Galit
+N/A,chemicalbank.scr,Noa,USA,US,,,Galit
+N/A,cignaretire.scr,Noa,USA,US,,,Galit
+N/A,citistreettower.scr,Noa,USA,US,,,Galit
+N/A,comdata.scr,Noa,USA,US,,,Galit
+N/A,cpiqualified.scr,Noa,USA,US,,,Galit
+N/A,dinersclub.scr,Noa,USA,US,,,Galit
+N/A,emigrantbank.scr,Noa,USA,US,,,Galit
+N/A,ewealthmanager.scr,Noa,USA,US,,,Galit
+N/A,fidelitybahamas.scr,Noa,USA,US,,,Galit
+N/A,fiduciarytrust.scr,Noa,USA,US,,,Galit
+N/A,nationstarmtg.scr,Noa,USA,US,,,Galit
+N/A,adptower.scr,Michal,USA,US,,,Galit
+N/A,aftechtower.scr,Michal,USA,US,,,Galit
+N/A,agffunds.scr,Michal,USA,US,,,Galit
+N/A,atiracc.scr,Michal,USA,US,,,Galit
+N/A,bankmandiribus.scr,Michal,USA,US,,,Galit
+N/A,bankofputnamcty.scr,Michal,USA,US,,,Galit
+N/A,bbtllctower.scr,Michal,USA,US,,,Galit
+N/A,bbttrust.scr,Michal,USA,US,,,Galit
+N/A,bentobusiness.scr,Michal,USA,US,,,Galit
+N/A,bestbuyrewzone.scr,Michal,USA,US,,,Galit
+N/A,buduchnistcuca.scr,Michal,USA,US,,,Galit
+N/A,buseywealthmgmt.scr,Michal,USA,US,,,Galit
+N/A,cambridge.scr,Michal,USA,US,,,Galit
+N/A,capitaloneauto.scr,Michal,USA,US,,,Galit
+N/A,capitalretirementservices.scr,Michal,USA,US,,,Galit
+N/A,ccbankTaxTY12-E2E.scr,Michal,USA,US,,,Galit
+N/A,certegytower.scr,Michal,USA,US,,,Galit
+N/A,citiretailccapi.scr,Michal,USA,US,,,Galit
+N/A,citizensbankloanservice.scr,Michal,USA,US,,,Galit
+N/A,citycreditunion.scr,Michal,USA,US,,,Galit
+N/A,cmservertower.scr,Michal,USA,US,,,Galit
+N/A,colonialsavingsmortgage.scr,Michal,USA,US,,,Galit
+N/A,coloradopera.scr,Michal,USA,US,,,Galit
+N/A,comcard.scr,Michal,USA,US,,,Galit
+N/A,corebusinesstower.scr,Michal,USA,US,,,Galit
+N/A,corilliantower.scr,Michal,USA,US,,,Galit
+N/A,dbinsight.scr,Michal,USA,US,,,Galit
+N/A,discoverstudentloans.scr,Michal,USA,US,,,Galit
+N/A,dupaco.scr,Michal,USA,US,,,Galit
+N/A,dwolla.scr,Michal,USA,US,,,Galit
+N/A,edcofcu.scr,Michal,USA,US,,,Galit
+N/A,envestnetclientaccess.scr,Michal,USA,US,,,Galit
+N/A,fairmontfcu.scr,Michal,USA,US,,,Galit
+N/A,farmbureau.scr,Michal,USA,US,,,Galit
+N/A,farmcreditservices.scr,Michal,USA,US,,,Galit
+N/A,firstlinemortgage.scr,Michal,USA,US,,,Galit
+N/A,ftportfolios.scr,Michal,USA,US,,,Galit
+N/A,genworthannuity.scr,Michal,USA,US,,,Galit
+N/A,globalcashcard.scr,Michal,USA,US,,,Galit
+N/A,gmcard.scr,Michal,USA,US,,,Galit
+N/A,hangsengbank.scr,Michal,USA,US,,,Galit
+N/A,harborfund.scr,Michal,USA,US,,,Galit
+N/A,harris.scr,Michal,USA,US,,,Galit
+N/A,heartlandretirement.scr,Michal,USA,US,,,Galit
+N/A,homecutower.scr,Michal,USA,US,,,Galit
+N/A,horacemannfinancial.scr,Michal,USA,US,,,Galit
+N/A,icma.scr,Michal,USA,US,,,Galit
+N/A,intuitpaycard.scr,Michal,USA,US,,,Galit
+N/A,itibusiness.scr,Michal,USA,US,,,Galit
+N/A,jpmorganshareholder.scr,Michal,USA,US,,,Galit
+N/A,kabbage.scr,Michal,USA,US,,,Galit
+N/A,lakemichigancu.scr,Michal,USA,US,,,Galit
+N/A,lendingclub.scr,Michal,USA,US,,,Galit
+N/A,lendkey.scr,Michal,USA,US,,,Galit
+N/A,llcloanaccounting.scr,Michal,USA,US,,,Galit
+N/A,loringwardservices.scr,Michal,USA,US,,,Galit
+N/A,mbna_canada.scr,Michal,USA,US,,,Galit
+N/A,meridian.scr,Michal,USA,US,,,Galit
+N/A,meriwest.scr,Michal,USA,US,,,Galit
+N/A,merrill.scr,Michal,USA,US,,,Galit
+N/A,merrillbenefits.scr,Michal,USA,US,,,Galit
+N/A,metlifedeferred.scr,Michal,USA,US,,,Galit
+N/A,midstower.scr,Michal,USA,US,,,Galit
+N/A,minnesotalife.scr,Michal,USA,US,,,Galit
+N/A,mybankingservices.scr,Michal,USA,US,,,Galit
+N/A,nationalsls.scr,Michal,USA,US,,,Galit
+N/A,nationwideinsurance.scr,Michal,USA,US,,,Galit
+N/A,opers.scr,Michal,USA,US,,,Galit
+N/A,pacificlife.scr,Michal,USA,US,,,Galit
+N/A,pennmutualadvisor.scr,Michal,USA,US,,,Galit
+N/A,pentegra.scr,Michal,USA,US,,,Galit
+N/A,pfpcinvesttower.scr,Michal,USA,US,,,Galit
+N/A,phoenixannuity.scr,Michal,USA,US,,,Galit
+N/A,pnfpcc.scr,Michal,USA,US,,,Galit
+N/A,principalfinancial_api.scr,Michal,USA,US,,,Galit
+N/A,protectiveinv.scr,Michal,USA,US,,,Galit
+N/A,rac.scr,Michal,USA,US,,,Galit
+N/A,rbscc_new.scr,Michal,USA,US,,,Galit
+N/A,rcolmsteadtower.scr,Michal,USA,US,,,Galit
+N/A,regionsmortgage.scr,Michal,USA,US,,,Galit
+N/A,salliemaebank.scr,Michal,USA,US,,,Galit
+N/A,sbera.scr,Michal,USA,US,,,Galit
+N/A,scstudentloan.scr,Michal,USA,US,,,Galit
+N/A,securianrc.scr,Michal,USA,US,,,Galit
+N/A,seedbank.scr,Michal,USA,US,,,Galit
+N/A,stephensincinves.scr,Michal,USA,US,,,Galit
+N/A,stronginvest.scr,Michal,USA,US,,,Galit
+N/A,sunlifeglinv_canada.scr,Michal,USA,US,,,Galit
+N/A,targetvisagiftcard.scr,Michal,USA,US,,,Galit
+N/A,tiaacreffsb.scr,Michal,USA,US,,,Galit
+N/A,traceasstower.scr,Michal,USA,US,,,Galit
+N/A,trsl.scr,Michal,USA,US,,,Galit
+N/A,uofmnsecplan.scr,Michal,USA,US,,,Galit
+N/A,usbanksinglepoint.scr,Michal,USA,US,,,Galit
+N/A,usdirectexpress.scr,Michal,USA,US,,,Galit
+N/A,utahretirement.scr,Michal,USA,US,,,Galit
+N/A,vbsebanktower.scr,Michal,USA,US,,,Galit
+N/A,verisight.scr,Michal,USA,US,,,Galit
+N/A,vermontinvestmentplan.scr,Michal,USA,US,,,Galit
+N/A,wfsfinancial.scr,Michal,USA,US,,,Galit
+N/A,wisconsindiscount.scr,Michal,USA,US,,,Galit
+N/A,wisebanyan.scr,Michal,USA,US,,,Galit
+N/A,ymcaret.scr,Michal,USA,US,,,Galit
+N/A,carenettower.scr,Michal,USA,US,,,Galit
+CIMB Bank Berhad Personal - Beta,cimbbank.scr,Meital,Israel,ROW,,,Galit
+United Overseas Bank Limited (UOB) - Personal - (Singapore) - Beta,uobsgp.scr,Meital,Israel,ROW,Wait4Ten,,Galit
+HSBC Mexico - Beta,hsbcbankmex.scr,Meital,Israel,ROW,,,Galit
+Empresas BBVA - Business Banking - net office (Spain),bbvabusiness.scr,Meital,Israel,ROW,WaitBeta,,Galit
+Bank of the Philippine Islands,phpisland.scr,Meital,Israel,ROW,,,Galit
+Bank of the Philippine Islands - Business Banking - Beta,phpislandbus.scr,Meital,Israel,ROW,Wait4Ten,,Galit
+Banco Santander (Spain) - Business Banking,bancosantanderbus.scr,Meital,Israel,ROW,,,Galit
+First National Bank (South Africa),fnbza.scr,Meital,Israel,ROW,,,Galit
+Land Bank of the Philippines - Personal Banking - Beta,lbpiaccessphp.scr,Meital,Israel,ROW,Wait4Ten,,Galit
+Philippine National Bank - Personal Banking - Beta,phlnationalbank.scr,Meital,Israel,ROW,Wait4Ten,,Galit
+Queensland Country Credit Union,queenslandcuaus.scr,Meital,AUS,GLOBAL,,,Galit
+Rabobank (AU),rabobankaus.scr,Meital,AUS,GLOBAL,,,Galit
+Rural Bank - Beta,ruralbank.scr,Meital,AUS,GLOBAL,,,Galit
+Southern Cross Credit Union - Beta,southerncuaus.scr,Meital,AUS,GLOBAL,,,Galit
+Summerland Credit Union - Beta,summerlandcuaus.scr,Meital,AUS,GLOBAL,,,Galit
+Teacher's Credit Union/Teacher's Mutual Bank,teachersmutualbankaus.scr,Meital,AUS,GLOBAL,,,Galit
+The Mutual - Beta,themutualaus.scr,Meital,AUS,GLOBAL,,,Galit
+UBank (AU),ubankaus.scr,Meital,AUS,GLOBAL,,,Galit
+Victoria Teachers Mutual Bank (AU),victeachmutualau.scr,Meital,AUS,GLOBAL,,,Galit
+WAW Credit Union - RSM Albury - Beta,wawcuaus.scr,Meital,AUS,GLOBAL,,,Galit
+Sicoob - Pessoal - Beta,sicoobbr.scr,Meital,BRA,GLOBAL,,,Galit
+ING DIRECT (France),ingdirectfr.scr,Meital,FRA,GLOBAL,,,Galit
+La Banque Postale,labanquepostale.scr,Meital,FRA,GLOBAL,,,Galit
+Monabanq (FRA),monabangfr.scr,Meital,FRA,GLOBAL,,,Galit
+Neuflize OBC ABN AMRO - Authentification simple pour consultation - (BETA),neuflizeabnfr.scr,Meital,FRA,GLOBAL,,,Galit
+PSA Banque (Livret Distingo) (FRA) - BETA,psabanquefr.scr,Meital,FRA,GLOBAL,,,Galit
+Qonto France,qontofr.scr,Meital,FRA,GLOBAL,,,Galit
+Société Marseillaise de Crédit (France) - BETA,smcfr.scr,Meital,FRA,GLOBAL,,,Galit
+Société Générale Professionnels,societegenerale.scr,Meital,FRA,GLOBAL,,,Galit
+Société Générale Entreprises - Beta,societegeneraleentreprises.scr,Meital,FRA,GLOBAL,,,Galit
+Société Générale Particuliers,societegeneralepar.scr,Meital,FRA,GLOBAL,,,Galit
+MBNA Credit Card (UK),mbnavirginatlanticuk.scr,Meital,GBR,GLOBAL,,,Galit
+Metro Bank (UK) - Business Online Plus and Commercial Online Banking,metrobankbusiness.scr,Meital,GBR,GLOBAL,,,Galit
+Metro Bank (UK) - Personal and Business,metrobankuk.scr,Meital,GBR,GLOBAL,,,Galit
+M&S Bank,msbankuk.scr,Meital,GBR,GLOBAL,,,Galit
+Standard Bank (South Africa) - Beta,standardbank.scr,Meital,Israel,ROW,,,Galit
+Nationwide Bank (UK),nationwide_buildingsociety.scr,Meital,GBR,GLOBAL,,,Galit
+The Royal Bank of Scotland (RBS) - Business and personal - Digital Banking - Credit card services - UK,natwestccservicesuk.scr,Meital,GBR,GLOBAL,,,Galit
+Norwich and Peterborough Building Society  - Beta,norwichuk.scr,Meital,GBR,GLOBAL,,,Galit
+Royal Bank of Scotland (RBS) - Bankline,royalbankofscobank.scr,Meital,GBR,GLOBAL,,,Galit
+Santander Corporate Banking (UK),santander.scr,Meital,GBR,GLOBAL,,,Galit
+Standard Chartered Bank (UK) - Business Banking,scbuk.scr,Meital,GBR,GLOBAL,,,Galit
+Vanquis Bank - Beta,vanquisbankuk.scr,Meital,GBR,GLOBAL,,,Galit
+Virgin Money - Beta,virginmoneyuk.scr,Meital,GBR,GLOBAL,,,Galit
+WorldPay - My Business Dashboard - Beta,worldpayuk.scr,Meital,GBR,GLOBAL,,,Galit
+The Saraswat Co-op Bank,saraswatbank.scr,Meital,IND,GLOBAL,,,Galit
+SBI Card,sbicard.scr,Meital,IND,GLOBAL,,,Galit
+South Indian Bank - Corporate Login,southindianbank.scr,Meital,IND,GLOBAL,,,Galit
+State Bank of Hyderabad,statebankofindia.scr,Meital,IND,GLOBAL,,,Galit
+State Bank of Mysore - Corporate (KhataPlus/Vyapaar/Vistaar),statebankofindiacorp.scr,Meital,IND,GLOBAL,,,Galit
+Syndicate Bank,syndicatebank.scr,Meital,IND,GLOBAL,,,Galit
+Tamilnad Mercantile Bank (India),tmb.scr,Meital,IND,GLOBAL,,,Galit
+UCO Bank - Corporate,ucobankindia.scr,Meital,IND,GLOBAL,,,Galit
+Union Bank of India,unionbankofindia.scr,Meital,IND,GLOBAL,,,Galit
+Vijaya Bank,vijayabank.scr,Meital,IND,GLOBAL,,,Galit
+Yes Bank,yesbank.scr,Meital,IND,GLOBAL,,,Galit
+Axis Bank,axisbank.scr,Meital,IND,GLOBAL,,,Galit
+Axis Bank - Corporate,axisbankcorp.scr,Meital,IND,GLOBAL,,,Galit
+Itaú (Pessoa jurídica) - Beta,iuholding.scr,Meital,BRA,GLOBAL,,,Galit
+NatWest Personal - Online banking (UK) - England & Wales,natwest.scr,Meital,GBR,GLOBAL,,,Galit
+American Express Brazil (Beta),amexccbr.scr,Meital,BRA,GLOBAL,,,Galit
+American Express - Suivi de compte-carte (France),amexccfr.scr,Meital,FRA,GLOBAL,,,Galit
+American Express India,amexccindia.scr,Meital,IND,GLOBAL,,,Galit
+American Express Credit Card (UK),amexccuk.scr,Meital,GBR,GLOBAL,,,Galit
+American Express - Compte commerçant en ligne (France),amexmerchantfr.scr,Meital,FRA,GLOBAL,,,Galit
+Tesco Bank (Current Accounts Login),tescobankcreditcarduk.scr,Meital,GBR,GLOBAL,,,Galit
+N/A,placeholder.scr,Meital,Israel,ROW,,,Galit
+DBS CORPORATE BANKING - DBS IDEAL (Singapore) - Beta,dbsbiz.scr,Meital,Israel,ROW,,,Galit
+BBVA (Mexico) - Beta,bbvabankmex.scr,Meital,Israel,ROW,Wait4Ten,,Galit
+Indian Overseas Bank,indianoverseasbank.scr,Meital,IND,GLOBAL,,,Galit
+Natwest Cards Online (UK),natwestcardsonlineuk.scr,Meital,GBR,GLOBAL,,,Galit
+Ratnakar Bank - Personal Banking,ratnakarbankindpersonal.scr,Meital,IND,GLOBAL,,,Galit
+N/A,metlife_clientview.scr,Wissam,USA,US,,,Galit
+N/A,midlandmortgage.scr,Noam,USA,US,,,Galit
+N/A,mullintgb.scr,Marc,USA,US,,,Galit
+N/A,nordstrom.scr,Dor,USA,US,,,Galit
+N/A,oklsa.scr,Daniel,USA,US,,,Galit
+N/A,persi.scr,Noam,USA,US,,,Galit
+N/A,providentfunding.scr,Wissam,USA,US,,,Galit
+N/A,sst.scr,Noam,USA,US,,,Galit
+N/A,stonegate.scr,Marc,USA,US,,,Galit
+N/A,transamericalic.scr,Dor,USA,US,,,Galit
+N/A,venmo.scr,Daniel,USA,US,,,Galit
+N/A,axaonline.scr,Noam,USA,US,,,Galit
+N/A,advanta.scr,Wissam,USA,US,,,Galit
+N/A,americanfundspart.scr,Noam,USA,US,,,Galit
+N/A,bmomosaikcc_canada.scr,Marc,USA,US,,,Galit
+N/A,bpaharbridge.scr,Dor,USA,US,,,Galit
+N/A,aulic.scr,Daniel,USA,US,,,Galit
+N/A,bernstein.scr,Noam,USA,US,,,Galit
+N/A,cbsbenefitcenter.scr,Wissam,USA,US,,,Galit
+N/A,centierinvestment.scr,Noam,USA,US,,,Galit
+N/A,cnbretirementplandiv.scr,Marc,USA,US,,,Galit
+N/A,charlesschwabeac.scr,Dor,USA,US,,,Galit
+N/A,columbiafunds.scr,Daniel,USA,US,,,Galit
+N/A,corporateretirement.scr,Noam,USA,US,,,Galit
+N/A,choicetrade.scr,Wissam,USA,US,,,Galit
+N/A,corillianonlinenew.scr,Maya,USA,US,,,Galit
+N/A,cusatower.scr,Marc,USA,US,,,Galit
+N/A,comerica.scr,Dor,USA,US,,,Galit
+N/A,enginetower.scr,Veronik,USA,US,,,Galit
+N/A,goldmoney.scr,Noam,USA,US,,,Galit
+N/A,hewitt401k.scr,Wissam,USA,US,,,Galit
+N/A,huntingbus.scr,Noam,USA,US,,,Galit
+N/A,independentbank.scr,Marc,USA,US,,,Galit
+N/A,kaching.scr,Dor,USA,US,,,Galit
+N/A,kinectafcu.scr,Daniel,USA,US,,,Galit
+N/A,massmutualins.scr,Noam,USA,US,,,Galit
+N/A,merrick.scr,Wissam,USA,US,,,Galit
+N/A,mohela.scr,Noam,USA,US,,,Galit
+N/A,myccinfo.scr,Marc,USA,US,,,Galit
+N/A,myonlineservicestower.scr,Dor,USA,US,,,Galit
+N/A,netzeecashmgmt.scr,Daniel,USA,US,,,Galit
+N/A,pointbank.scr,Noam,USA,US,,,Galit
+N/A,tgtuitionplan.scr,Wissam,USA,US,,,Galit
+N/A,thestandard.scr,Veronik,USA,US,,,Galit
+N/A,unioncentral401k.scr,Marc,USA,US,,,Galit
+N/A,elanfinancialcc.scr,Matan,USA,US,,,Galit
+N/A,libertyonlinetower.scr,Matan,USA,US,,,Galit
+N/A,mobicinettower.scr,Matan,USA,US,,,Galit
+N/A,1stdiscountbrok.scr,Matan,USA,US,,,Galit
+N/A,aafescredit.scr,Matan,USA,US,,,Galit
+N/A,amcentury.scr,Matan,USA,US,,,Galit
+N/A,americafirst.scr,Matan,USA,US,,,Galit
+N/A,arielmutualfunds.scr,Matan,USA,US,,,Galit
+N/A,arvestcashmanager.scr,Matan,USA,US,,,Galit
+N/A,bancosantanderpr.scr,Matan,USA,US,,,Galit
+N/A,bangkokbusiness.scr,Matan,USA,US,,,Galit
+N/A,baxtercu.scr,Matan,USA,US,,,Galit
+N/A,bayloanservicing.scr,Matan,USA,US,,,Galit
+N/A,behringerharvard.scr,Matan,USA,US,,,Galit
+N/A,bethpage.scr,Matan,USA,US,,,Galit
+N/A,bizcard.scr,Matan,USA,US,,,Galit
+N/A,bmo_canada.scr,Matan,USA,US,,,Galit
+N/A,bmwcard.scr,Matan,USA,US,,,Galit
+N/A,broadridge.scr,Matan,USA,US,,,Galit
+N/A,capitalone.scr,Matan,USA,US,,,Galit
+N/A,citibusiness.scr,Matan,USA,US,,,Galit
+N/A,colladv.scr,Matan,USA,US,,,Galit
+N/A,comfcuflbusiness.scr,Matan,USA,US,,,Galit
+N/A,compshareinvestor.scr,Matan,USA,US,,,Galit
+N/A,creditunionhomebanking.scr,Matan,USA,US,,,Galit
+N/A,crosstown_canada.scr,Matan,USA,US,,,Galit
+N/A,deferralselectinves.scr,Matan,USA,US,,,Galit
+N/A,digitalinsightbiz.scr,Matan,USA,US,,,Galit
+N/A,empowerretirementtower.scr,Matan,USA,US,,,Galit
+N/A,epltower.scr,Matan,USA,US,,,Galit
+N/A,equiantfs.scr,Matan,USA,US,,,Galit
+N/A,finalbank.scr,Matan,USA,US,,,Galit
+N/A,firstcontlmtg.scr,Matan,USA,US,,,Galit
+N/A,firstmeritbus.scr,Matan,USA,US,,,Galit
+N/A,firstpremier.scr,Matan,USA,US,,,Galit
+N/A,fistower.scr,Matan,USA,US,,,Galit
+N/A,flextellertower.scr,Matan,USA,US,,,Galit
+N/A,frankteminvsca.scr,Matan,USA,US,,,Galit
+N/A,fultonfin.scr,Matan,USA,US,,,Galit
+N/A,fundsxpresstower.scr,Matan,USA,US,,,Galit
+N/A,gemutualfund.scr,Matan,USA,US,,,Galit
+N/A,gmacfinancial.scr,Matan,USA,US,,,Galit
+N/A,gobank.scr,Matan,USA,US,,,Galit
+N/A,greentreeservice.scr,Matan,USA,US,,,Galit
+N/A,gtefcu.scr,Matan,USA,US,,,Galit
+N/A,guaranteeedu.scr,Matan,USA,US,,,Galit
+N/A,guardianmytrustacc.scr,Matan,USA,US,,,Galit
+N/A,guideline.scr,Matan,USA,US,,,Galit
+N/A,guildmc.scr,Matan,USA,US,,,Galit
+N/A,hartfordinvestor.scr,Matan,USA,US,,,Galit
+N/A,ibstower.scr,Matan,USA,US,,,Galit
+N/A,insuranceservicesinv.scr,Matan,USA,US,,,Galit
+N/A,invesco.scr,Matan,USA,US,,,Galit
+N/A,israelbonddirect.scr,Matan,USA,US,,,Galit
+N/A,kpers.scr,Matan,USA,US,,,Galit
+N/A,kwiktrip.scr,Matan,USA,US,,,Galit
+N/A,legendgroupaccountlink.scr,Matan,USA,US,,,Galit
+N/A,lincolninv.scr,Matan,USA,US,,,Galit
+N/A,linconefcu.scr,Matan,USA,US,,,Galit
+N/A,manningnapier.scr,Matan,USA,US,,,Galit
+N/A,mbtrading.scr,Matan,USA,US,,,Galit
+N/A,metlifemybenifits.scr,Matan,USA,US,,,Galit
+N/A,midlandannuity.scr,Matan,USA,US,,,Galit
+N/A,mortgagequestions.scr,Matan,USA,US,,,Galit
+N/A,mosaic.scr,Matan,USA,US,,,Galit
+N/A,msclientlink.scr,Matan,USA,US,,,Galit
+N/A,nationalbankfin_canada.scr,Matan,USA,US,,,Galit
+N/A,nationwideretirement.scr,Matan,USA,US,,,Galit
+N/A,ncsecu.scr,Matan,USA,US,,,Galit
+N/A,netspendcc.scr,Matan,USA,US,,,Galit
+N/A,newyorklifeannuity.scr,Matan,USA,US,,,Galit
+N/A,ngwisyntheticmon.scr,Matan,USA,US,,,Galit
+N/A,northdakota.scr,Matan,USA,US,,,Galit
+N/A,nsldatasym.scr,Matan,USA,US,,,Galit
+N/A,nubibusinesstower.scr,Matan,USA,US,,,Galit
+N/A,oakbanklive.scr,Matan,USA,US,,,Galit
+N/A,ocwenfederalbank.scr,Matan,USA,US,,,Galit
+N/A,onemainfinancial.scr,Matan,USA,US,,,Galit
+N/A,oregonsavings.scr,Matan,USA,US,,,Galit
+N/A,osufcuinvestment.scr,Matan,USA,US,,,Galit
+N/A,pacificlifemutual.scr,Matan,USA,US,,,Galit
+N/A,parnassus.scr,Matan,USA,US,,,Galit
+N/A,patelco.scr,Matan,USA,US,,,Galit
+N/A,pennymac.scr,Matan,USA,US,,,Galit
+N/A,pioneerinvestments.scr,Matan,USA,US,,,Galit
+N/A,putnam401k.scr,Matan,USA,US,,,Galit
+N/A,roycefunds.scr,Matan,USA,US,,,Galit
+N/A,rsofalabama.scr,Matan,USA,US,,,Galit
+N/A,rwbaird.scr,Matan,USA,US,,,Galit
+N/A,sandialabfcu.scr,Matan,USA,US,,,Galit
+N/A,saturnacapital.scr,Matan,USA,US,,,Galit
+N/A,scotiavirginislands.scr,Matan,USA,US,,,Galit
+N/A,setoyotafinance.scr,Matan,USA,US,,,Galit
+N/A,squareonebank.scr,Matan,USA,US,,,Galit
+N/A,starone.scr,Matan,USA,US,,,Galit
+N/A,stripe.scr,Matan,USA,US,,,Galit
+N/A,sumxtower.scr,Matan,USA,US,,,Galit
+N/A,synchronybankdeposit.scr,Matan,USA,US,,,Galit
+N/A,synchronycardtower.scr,Matan,USA,US,,,Galit
+N/A,tdadvisor.scr,Matan,USA,US,,,Galit
+N/A,tradingdirect.scr,Matan,USA,US,,,Galit
+N/A,trustassetmgmt.scr,Matan,USA,US,,,Galit
+N/A,trustcompanyofamerica.scr,Matan,USA,US,,,Galit
+N/A,usaa_mylife.scr,Matan,USA,US,,,Galit
+N/A,usehomeloan.scr,Matan,USA,US,,,Galit
+N/A,varetire.scr,Matan,USA,US,,,Galit
+N/A,wachoviasec.scr,Matan,USA,US,,,Galit
+N/A,web401k.scr,Matan,USA,US,,,Galit
+N/A,wellsfargoeloan.scr,Matan,USA,US,,,Galit
+N/A,wfshareowner.scr,Matan,USA,US,,,Galit
+N/A,wsinvestor.scr,Matan,USA,US,,,Galit
+N/A,SynchronyCardTowerApi.scr,Matan,USA,US,,,Galit
+N/A,hbnetappstower.scr,Matan,USA,US,,,Galit
+N/A,bankofcommerce.scr,Matan,USA,US,,,Galit
+United Overseas Bank Limited (UOB) - Business - BIBPlus - (Singapore) - Beta,uobbizsgp.scr,Mariana,Israel,ROW,,,Galit
+BankWest (Australia),bankwestaus.scr,Mariana,AUS,GLOBAL,,,Galit
+Bendigo Bank (Australia),bendigobank.scr,Mariana,AUS,GLOBAL,,,Galit
+People's Choice Credit Union (AU),beyondbankau.scr,Mariana,AUS,GLOBAL,,,Galit
+Citibank (Australia),citibankaus.scr,Mariana,AUS,GLOBAL,,,Galit
+Myer Visa Card ,cmsmastercard.scr,Mariana,AUS,GLOBAL,,,Galit
+Cole's Credit Cards - Beta,colescreditaus.scr,Mariana,AUS,GLOBAL,,,Galit
+Community First Credit union Bank - Beta,communityfirstcuaus.scr,Mariana,AUS,GLOBAL,,,Galit
+Credit Union Australia (CUA),cua.scr,Mariana,AUS,GLOBAL,,,Galit
+Defcredit (Australia),defcredit.scr,Mariana,AUS,GLOBAL,,,Galit
+Greater Building Society (AUS),greaterbuildingsocietyaus.scr,Mariana,AUS,GLOBAL,,,Galit
+Holiday Coast Credit Union - Beta,holidaycoastcreditaus.scr,Mariana,AUS,GLOBAL,,,Galit
+HSBC Bank (Hong Kong) - Business Banking,hsbchkbusiness.scr,Mariana,Israel,ROW,,,Galit
+HSBC Bank (Hong Kong) - Personal Banking - Beta,hsbchkpersonal.scr,Mariana,Israel,ROW,,,Galit
+DBS Bank (Singapore) Personal Banking - Beta,dbsibankingsgp.scr,Mariana,Israel,ROW,,,Galit
+RHB Reflex - Business Banking - Beta,rhbreflex.scr,Mariana,Israel,ROW,Wait4Ten,,Galit
+Maybank - Personal Banking,maybank.scr,Mariana,Israel,ROW,,,Galit
+ABSA Bank,absabankza.scr,Mariana,Israel,ROW,,,Galit
+Citibank (PHL)- Beta - Both Personal and Business,citibankphl.scr,Mariana,Israel,ROW,Wait4Ten,,Galit
+Dubai Islamic Bank - [Now National bank of Abu Dhabi] - Beta,dubaiislamicuae.scr,Mariana,Israel,ROW,,,Galit
+Hang Seng (HK) - Personal Banking - Beta,hsbankhkg.scr,Mariana,Israel,ROW,,,Galit
+Nedbank - Beta,nedbankza.scr,Mariana,Israel,ROW,,,Galit
+Banco Sabadell - Personal Banking - Beta,sabadell.scr,Mariana,Israel,ROW,,,Galit
+Santander (Pessoa física) - Beta,santanderpersonalbr.scr,Mariana,BRA,GLOBAL,,,Galit
+BforBank (France) - BETA,bforbankfr.scr,Mariana,FRA,GLOBAL,,,Galit
+BNP Paribas Group,bnpparibas.scr,Mariana,FRA,GLOBAL,,,Galit
+BNP PARIBAS - Cartes Entreprise,bnpparibascartesfr.scr,Mariana,FRA,GLOBAL,,,Galit
+BNP Paribas Guyane - Beta,bnpparibasguyanefr.scr,Mariana,FRA,GLOBAL,,,Galit
+BNP Paribas Réunion - BETA,bnpparibasreunionfr.scr,Mariana,FRA,GLOBAL,,,Galit
+Boursorama Banque (FRA),boursoramabanque.scr,Mariana,FRA,GLOBAL,,,Galit
+Bred - (France),bredfr.scr,Mariana,FRA,GLOBAL,,,Galit
+CIC France,cicbank.scr,Mariana,FRA,GLOBAL,,,Galit
+First Direct Internet Banking (UK),firstdirect.scr,Mariana,GBR,GLOBAL,,,Galit
+First Trust Bank - Business Banking,firsttrustuk.scr,Mariana,GBR,GLOBAL,,,Galit
+Handelsbanken - Individual Online Banking (UK) - Beta,handelsbankenuk.scr,Mariana,GBR,GLOBAL,,,Galit
+Handelsbanken - Corporate Online Banking - Card Reader Without Cable (UK),handelsbankuk.scr,Mariana,GBR,GLOBAL,,,Galit
+Hoares Bank (UK),hoaresbank.scr,Mariana,GBR,GLOBAL,,,Galit
+Bank of Ireland - 365 online (UK) - Beta,irelandbankuk.scr,Mariana,GBR,GLOBAL,,,Galit
+Isle of Man Bank - Beta,isleofmanbankuk.scr,Mariana,GBR,GLOBAL,,,Galit
+John Lewis Bank  - Beta,johnlewis.scr,Mariana,GBR,GLOBAL,,,Galit
+Ulster Bank - Business Banking - Bankline Login,ulsterbankbiz.scr,Mariana,GBR,GLOBAL,,,Galit
+Unity Trust Bank,unitytrustbank.scr,Mariana,GBR,GLOBAL,,,Galit
+City Union Bank Ltd (India),cubindia.scr,Mariana,IND,GLOBAL,,,Galit
+Development Credit Bank,dcbindia.scr,Mariana,IND,GLOBAL,,,Galit
+Dena Bank,denabank.scr,Mariana,IND,GLOBAL,,,Galit
+Deutsche Bank India,deutscheindia.scr,Mariana,IND,GLOBAL,,,Galit
+Federal Bank of India,federalbank.scr,Mariana,IND,GLOBAL,,,Galit
+ICICI Bank - Personal,icicibank.scr,Mariana,IND,GLOBAL,,,Galit
+ICICI Bank - Corporate Internet Banking - New Login,icicibankcorporate.scr,Mariana,IND,GLOBAL,,,Galit
+ICICI Bank - Young Stars,icicibankyoungstars.scr,Mariana,IND,GLOBAL,,,Galit
+IDBI Bank,idbibank.scr,Mariana,IND,GLOBAL,,,Galit
+IDBI Bank - Corporate,idbibank_corp.scr,Mariana,IND,GLOBAL,,,Galit
+National Australia Bank Group Limited - NAB Connect (AU),nabconnectau.scr,Mariana,AUS,GLOBAL,,,Galit
+Paypal (UK),paypal_uk.scr,Mariana,GBR,GLOBAL,,,Galit
+Banque Palatine - Enterprises (France),banquepalatineefr.scr,Mariana,FRA,GLOBAL,,,Galit
+Westpac Bank Business Banking,westpacbank.scr,Mariana,AUS,GLOBAL,,,Galit
+Hume Bank (AUS),humebankaus.scr,Mariana,AUS,GLOBAL,,,Galit
+Karnataka Bank - Corporate - Beta,karnatakabankcorp.scr,Mariana,IND,GLOBAL,,,Galit
+Commonwealth Bank - Business banking (CommBiz) - (AU),commbizbank.scr,Mariana,AUS,GLOBAL,,,Galit
+PO Bank,bimtest.scr,Marc,Israel,ROW,,,Galit
+N/A,earnest.scr,Marc,USA,US,,,Galit
+N/A,harleydavidson.scr,Marc,USA,US,,,Galit
+N/A,svbconnect.scr,Marc,USA,US,,,Galit
+N/A,citiccbusiness.scr,Marc,USA,US,,,Galit
+N/A,edwardjones.scr,Marc,USA,US,,,Galit
+N/A,realtymogul.scr,Marc,USA,US,,,Galit
+N/A,citynationalbank.scr,Marc,USA,US,,,Galit
+N/A,specializedloan.scr,Marc,USA,US,,,Galit
+N/A,aaiicredittower.scr,Marc,USA,US,,,Galit
+N/A,americanfunds.scr,Marc,USA,US,,,Galit
+N/A,atbfinancial_canada.scr,Marc,USA,US,,,Galit
+N/A,carmaxfinance.scr,Marc,USA,US,,,Galit
+N/A,cirstatements.scr,Marc,USA,US,,,Galit
+N/A,ersga.scr,Marc,USA,US,,,Galit
+N/A,forextrading.scr,Marc,USA,US,,,Galit
+N/A,frostcu.scr,Marc,USA,US,,,Galit
+N/A,studentloan.scr,Marc,USA,US,,,Galit
+N/A,sunlife_canada.scr,Marc,USA,US,,,Galit
+N/A,vermontstudent.scr,Marc,USA,US,,,Galit
+N/A,hsbccomm.scr,Marc,USA,US,,,Galit
+N/A,investorsfinancialgroup.scr,Marc,USA,US,,,Galit
+N/A,ipers.scr,Marc,USA,US,,,Galit
+N/A,jacksonnlicofny.scr,Marc,USA,US,,,Galit
+N/A,jeffersonnational.scr,Marc,USA,US,,,Galit
+N/A,johndeerecc.scr,Marc,USA,US,,,Galit
+N/A,jpmorganaccess.scr,Marc,USA,US,,,Galit
+N/A,linscoprivateledger.scr,Marc,USA,US,,,Galit
+N/A,loancareservice.scr,Marc,USA,US,,,Galit
+N/A,lordabbett.scr,Marc,USA,US,,,Galit
+N/A,mackenzieinvestments.scr,Marc,USA,US,,,Galit
+N/A,masshousing.scr,Marc,USA,US,,,Galit
+N/A,mbenefits.scr,Marc,USA,US,,,Galit
+N/A,milliman.scr,Marc,USA,US,,,Galit
+N/A,rbscc.scr,Marc,USA,US,,,Galit
+N/A,sosystemstower.scr,Marc,USA,US,,,Galit
+Emirates NBD - Business Banking,emiratesnbdbis.scr,Mahmood,Israel,ROW,,,Galit
+Maybank Cash Management Business Login (Regional Cash) - Beta,maybankbiz.scr,Mahmood,Israel,ROW,,,Galit
+Illawarra Credit Union - Beta,illawarracuaus.scr,Mahmood,AUS,GLOBAL,,,Galit
+ME Bank - Beta,mebankaus.scr,Mahmood,AUS,GLOBAL,,,Galit
+Newcastle Permanent (Business),newcastlepermanent.scr,Mahmood,AUS,GLOBAL,,,Galit
+Bank of East Asia - Personal Banking (HK) - Beta,beahk.scr,Mahmood,Israel,ROW,Wait4Ten,,Galit
+Bank of East Asia - Business Banking (HK),beahkbiz.scr,Mahmood,Israel,ROW,,,Galit
+Abu Dhabi Islamic Bank (Business Banking) - Beta,adibuaebiz.scr,Mahmood,Israel,ROW,,,Galit
+Hong Leong Bank - Personal Banking,hongleongbank.scr,Mahmood,Israel,ROW,,,Galit
+Hong Leong Bank - Business Banking - Beta,hongleongbiz.scr,Mahmood,Israel,ROW,,,Galit
+Metrobank (PHL) Personal- Beta,metrobankphl.scr,Mahmood,Israel,ROW,,,Galit
+RHB Now - Beta,rhbnow.scr,Mahmood,Israel,ROW,Wait4Ten,,Galit
+Police Bank - Beta,policebankaus.scr,Mahmood,AUS,GLOBAL,,,Galit
+Police Credit Union - Beta,policecreditunionaus.scr,Mahmood,AUS,GLOBAL,,,Galit
+Qantas Credit Union - Beta,qantascreditunionaus.scr,Mahmood,AUS,GLOBAL,,,Galit
+Citibank Brazil (Beta),citibankbr.scr,Mahmood,BRA,GLOBAL,,,Galit
+"Crédit Coopératif - Associations, entreprises - Coop@net",creditcooperatifcorpfr.scr,Mahmood,FRA,GLOBAL,,,Galit
+Crédit Coopératif (France),creditcooperatiffr.scr,Mahmood,FRA,GLOBAL,,,Galit
+Crédit Foncier (France) - BETA,creditfoncierfr.scr,Mahmood,FRA,GLOBAL,,,Galit
+Crédit Mutuel de Bretagne - Professionnels - Beta,creditmutuelfr.scr,Mahmood,FRA,GLOBAL,,,Galit
+BPE (Banque Privée Européenne) - (France),eurobanquefr.scr,Mahmood,FRA,GLOBAL,,,Galit
+Fortuneo Banque (FRA) - Beta,fortunebanqfr.scr,Mahmood,FRA,GLOBAL,,,Galit
+gan Assurances - Assurances et Banque (France) - BETA,ganassurancesfr.scr,Mahmood,FRA,GLOBAL,,,Galit
+Card One Banking (UK) - Business Banking,cardonebankingbiz.scr,Mahmood,GBR,GLOBAL,,,Galit
+Cater Allen Private Bank (UK),caterallenuk.scr,Mahmood,GBR,GLOBAL,,,Galit
+UK Customer Central Bank - EWC,CCBANKQBO.scr,Mahmood,GBR,GLOBAL,,,Galit
+Smile Bank (UK),cooperativebankuk.scr,Mahmood,GBR,GLOBAL,,,Galit
+Think Money  - Beta,thinkmoneyuk.scr,Mahmood,GBR,GLOBAL,,,Galit
+Triodos Bank (UK) - Beta,triodosbankuk.scr,Mahmood,GBR,GLOBAL,,,Galit
+Indusind Corporate (Indus Direct) - Beta,indusindcorp.scr,Mahmood,IND,GLOBAL,,,Galit
+J & K Bank,jkbank.scr,Mahmood,IND,GLOBAL,,,Galit
+Life Insurance Corporation of India,licindia.scr,Mahmood,IND,GLOBAL,,,Galit
+Punjab National Bank,punjabnationalbank.scr,Mahmood,IND,GLOBAL,,,Galit
+Ratnakar Bank - Credit Card,ratnakarbankcc.scr,Mahmood,IND,GLOBAL,,,Galit
+Ratnakar Bank - Corporate,ratnakarbankcorp.scr,Mahmood,IND,GLOBAL,,,Galit
+Lloyds Bank Personal (UK),lloydstsb.scr,Mahmood,GBR,GLOBAL,,,Galit
+Australia and New Zealand Banking Group - ANZ (AU),anzaus.scr,Mahmood,AUS,GLOBAL,,,Galit
+Commonwealth Bank of Australia - NetBank,commbank.scr,Mahmood,AUS,GLOBAL,,,Galit
+Commonwealth Securities Limited (CommSec) - AUS,commsecaus.scr,Mahmood,AUS,GLOBAL,,,Galit
+AMP Bank - BankNet - Australia,ampbankau.scr,Mahmood,AUS,GLOBAL,,,Galit
+Banque Populaire,banquepopulaire_fr.scr,Mahmood,FRA,GLOBAL,,,Galit
+N/A,accc.scr,Liraz,USA,BILLS,,,Galit
+N/A,allstate.scr,Liraz,USA,BILLS,,,Galit
+N/A,electricinsurance.scr,Liraz,USA,BILLS,,,Galit
+N/A,physiciansmutual.scr,Liraz,USA,BILLS,,,Galit
+N/A,stillwaterinsurance.scr,Liraz,USA,BILLS,,,Galit
+N/A,txfbinsurance.scr,Liraz,USA,BILLS,,,Galit
+N/A,bristolwest.scr,Liraz,USA,BILLS,,,Galit
+N/A,nycm.scr,Liraz,USA,BILLS,,,Galit
+N/A,ncfbinsurance.scr,Liraz,USA,BILLS,,,Galit
+N/A,scfbinsurance.scr,Liraz,USA,BILLS,,,Galit
+N/A,windhaveninsurance.scr ,Liraz,USA,BILLS,,,Galit
+N/A,chubbpersonalinsurance.scr ,Liraz,USA,BILLS,,,Galit
+N/A,fredloya.scr,Liraz,USA,BILLS,,,Galit
+N/A,ffbinsurance.scr,Liraz,USA,BILLS,,,Galit
+N/A,gfbinsurance.scr,Liraz,USA,BILLS,,,Galit
+N/A,uticainsurance.scr,Liraz,USA,BILLS,,,Galit
+N/A,unitedhealthone.scr,Liraz,USA,BILLS,,,Galit
+N/A,towerhinsurance.scr,Liraz,USA,BILLS,,,Galit
+N/A,fapcginsurance.scr,Liraz,USA,BILLS,,,Galit
+N/A,paypal.scr,India,USA,US-TOP 50,,,Galit
+N/A,aes.scr,India,USA,US-TOP 50,,,Galit
+N/A,afsa.scr,India,USA,US-TOP 50,,,Galit
+N/A,allybank.scr,India,USA,US-TOP 50,,,Galit
+N/A,ameriprise.scr,India,USA,US-TOP 50,,,Galit
+N/A,amexcc.scr,India,USA,US-TOP 50,,,Galit
+N/A,banknorthgroup.scr,India,USA,US-TOP 50,,,Galit
+N/A,bankofamerica.scr,India,USA,US-TOP 50,,,Galit
+N/A,bankofamericanonqfx.scr,India,USA,US-TOP 50,,,Galit
+N/A,barclaysbankcc.scr,India,USA,US-TOP 50,,,Galit
+N/A,bbtservices.scr,India,USA,US-TOP 50,,,Galit
+N/A,canadatrust.scr,India,USA,US-TOP 50,,,Galit
+N/A,chase.scr,India,USA,US-TOP 50,,,Galit
+N/A,cibtower.scr,India,USA,US-TOP 50,,,Galit
+N/A,citicc.scr,India,USA,US-TOP 50,,,Galit
+N/A,citicctower.scr,India,USA,US-TOP 50,,,Galit
+N/A,citilibrary.scr,India,USA,US-TOP 50,,,Galit
+N/A,citizens.scr,India,USA,US-TOP 50,,,Galit
+N/A,digitalinsight.scr,India,USA,US-TOP 50,,,Galit
+N/A,discard.scr,India,USA,US-TOP 50,,,Galit
+N/A,etrade.scr,India,USA,US-TOP 50,,,Galit
+N/A,etradebank.scr,India,USA,US-TOP 50,,,Galit
+N/A,fidelity.scr,India,USA,US-TOP 50,,,Galit
+N/A,fidelitynetben.scr,India,USA,US-TOP 50,,,Galit
+N/A,fifththird.scr,India,USA,US-TOP 50,,,Galit
+N/A,gleduloanserv.scr,India,USA,US-TOP 50,,,Galit
+N/A,hibernia.scr,India,USA,US-TOP 50,,,Galit
+N/A,hsbccclogin.scr,India,USA,US-TOP 50,,,Galit
+N/A,hsbcdirect.scr,India,USA,US-TOP 50,,,Galit
+N/A,hsbcretailcc.scr,India,USA,US-TOP 50,,,Galit
+N/A,ititower.scr,India,USA,US-TOP 50,,,Galit
+N/A,macys.scr,India,USA,US-TOP 50,,,Galit
+N/A,mbfinancial.scr,India,USA,US-TOP 50,,,Galit
+N/A,navyfcunew.scr,India,USA,US-TOP 50,,,Galit
+N/A,netzeetower.scr,India,USA,US-TOP 50,,,Galit
+N/A,onlinecreditcenter5.scr,India,USA,US-TOP 50,,,Galit
+N/A,osladirectloan.scr,India,USA,US-TOP 50,,,Galit
+N/A,pncbank.scr,India,USA,US-TOP 50,,,Galit
+N/A,q2tower_api2.scr,India,USA,US-TOP 50,,,Galit
+N/A,royalbank_canada.scr,India,USA,US-TOP 50,,,Galit
+N/A,salliemae.scr,India,USA,US-TOP 50,,,Galit
+N/A,schwab.scr,India,USA,US-TOP 50,,,Galit
+N/A,scotia_canada.scr,India,USA,US-TOP 50,,,Galit
+N/A,scotttrade.scr,India,USA,US-TOP 50,,,Galit
+N/A,suntrust.scr,India,USA,US-TOP 50,,,Galit
+N/A,targetcc.scr,India,USA,US-TOP 50,,,Galit
+N/A,troweprice401k.scr,India,USA,US-TOP 50,,,Galit
+N/A,usaa.scr,India,USA,US-TOP 50,,,Galit
+N/A,usbank.scr,India,USA,US-TOP 50,,,Galit
+N/A,vanguard.scr,India,USA,US-TOP 50,,,Galit
+N/A,wellsfargo.scr,India,USA,US-TOP 50,,,Galit
+N/A,wellsfargononqfx.scr,India,USA,US-TOP 50,,,Galit
+ING Direct (Australia),ingdirectaus.scr,Elad,AUS,GLOBAL,,,Galit
+Bank of Queensland (Australia),queensland.scr,Elad,AUS,GLOBAL,,,Galit
+Santander (Pessoa jurídica) - Beta,santanderbrazilcorp.scr,Elad,BRA,GLOBAL,,,Galit
+Crédit Mutuel,creditmutuel.scr,Elad,FRA,GLOBAL,,,Galit
+Crédit Mutuel Massif Central Professionnels - BETA,creditmutuelmcfr.scr,Elad,FRA,GLOBAL,,,Galit
+APS financial - Cash Plus (UK),cashplusuk.scr,Elad,GBR,GLOBAL,,,Galit
+Yorkshire Bank (UK),clydesdale.scr,Elad,GBR,GLOBAL,,,Galit
+Clydesdale and Yorkshire Bank | BusinessOnline,clydesdalebiz.scr,Elad,GBR,GLOBAL,,,Galit
+The Co-operative Bank (UK) - Business Banking,cooperativebankukbiz.scr,Elad,GBR,GLOBAL,,,Galit
+Indian Bank,indianbank.scr,Elad,IND,GLOBAL,,,Galit
+Oriental Bank of Commerce,obcommerce.scr,Elad,IND,GLOBAL,,,Galit
+Punjab National Bank - Corporate,punjabnationalbankcorp.scr,Elad,IND,GLOBAL,,,Galit
+Santander (UK),santanderbusiness.scr,Elad,GBR,GLOBAL,,,Galit
+OCBC Bank (Singapore) Business Banking,ocbcbanksgp.scr,Elad,Israel,ROW,,,Galit
+HSBC Bank India,hsbcindia.scr,Elad,IND,GLOBAL,,,Galit
+Bank of Ireland - Business On Line (UK),boionlineuk.scr,Elad,GBR,GLOBAL,,,Galit
+Bank of Baroda India,bankofbarodacorp.scr,Elad,IND,GLOBAL,,,Galit
+Central Bank of India - Corporate,cbinet.scr,Elad,IND,GLOBAL,,,Galit
+Standard Chartered Bank India,charteredbank.scr,Elad,IND,GLOBAL,,,Galit
+Citibank (India) - Personal Banking,citibankindia.scr,Elad,IND,GLOBAL,,,Galit
+Banco de Oro - BDO Corporate Banking,bdocorpbank.scr,Dudi,Israel,ROW,,,Galit
+Hang Seng (HK) - Business Banking - Beta,hsbankhkgbizz.scr,Dudi,Israel,ROW,Wait4Ten,,Galit
+Standard Bank (South Africa) - Beta,standardbank.scr,Dudi,Israel,ROW,,,Galit
+OCBC Bank (Singapore) - Beta,ocbcpersonal.scr,Dudi,Israel,ROW,Wait4Ten,,Galit
+Banamex - Personal (MEX),banamex.scr,Dudi,Israel,ROW,,,Galit
+Bank of China - Personal Banking (HK) - Beta,bankofchinahk.scr,Dudi,Israel,ROW,Wait4Ten,,Galit
+HSBC Bank (AU) - Personal Internet Banking,hsbcbankau.scr,Dudi,AUS,GLOBAL,,,Galit
+HSBC Bank - particuliers - (France) - BETA,hsbcbankfr.scr,Dudi,FRA,GLOBAL,,,Galit
+HSBC Bank (UK) - Personal and Credit Card - Old,hsbcbankuk.scr,Dudi,GBR,GLOBAL,,,Galit
+HSBC Bank (UK) - Business Banking,hsbcbankukbusiness.scr,Dudi,GBR,GLOBAL,,,Galit
+HSBC Net (UK),hsbcbusiness.scr,Dudi,GBR,GLOBAL,,,Galit
+HSBC Bank (AU) - Credit Cards,hsbccreditcardaus.scr,Dudi,AUS,GLOBAL,,,Galit
+HDFC Bank - Corporate,hdfc.scr,Dudi,IND,GLOBAL,,,Galit
+HDFC Bank Corporate - ENet (EASYVIEW or EPAYMENTS),hdfcbankenet.scr,Dudi,IND,GLOBAL,,,Galit
+HDFC Bank Credit Card,hdfccc.scr,Dudi,IND,GLOBAL,,,Galit
+Suncorp Bank (Australia),suncorp.scr,Dudi,AUS,GLOBAL,,,Galit
+Southwest Slopes Credit Union - Beta,southslopescu.scr,Dudi,AUS,GLOBAL,,,Galit
+Adelaide Bank - Beta,adelaidebankaus.scr,Dudi,AUS,GLOBAL,,,Galit
+ANZ Transactive Corporate Banking (AU) - Beta,anzcorp.scr,Dudi,AUS,GLOBAL,,,Galit
+Bank Australia - Beta,bankaustralia.scr,Dudi,AUS,GLOBAL,,,Galit
+Credit Union SA (Australia) - Beta,bankmecu.scr,Dudi,AUS,GLOBAL,,,Galit
+Bank of China - CBS Business Banking (HK) - Beta,bankofchinahkbiz.scr,Dudi,Israel,ROW,,,Galit
+la Caixa (CaixaBank) - Business Banking,lacaixa.scr,Dudi,Israel,ROW,,,Galit
+PUBLIC BANK [L] LTD - Beta,pbnkberhad.scr,Dudi,Israel,ROW,,,Galit
+Santander Mexico,santanderbankmex.scr,Dudi,Israel,ROW,,,Galit
+Standard Chartered Bank - HK - Both Personal and Business,standardcharteredhk.scr,Dudi,Israel,ROW,,,Galit
+Bank VIC - Beta,bankvicaus.scr,Dudi,AUS,GLOBAL,,,Galit
+Bradesco (Pessoa jurídica) - Beta,bradescoempresasbr.scr,Dudi,BRA,GLOBAL,,,Galit
+Bradesco (Pessoa física) - Beta,bradescopersonalbr.scr,Dudi,BRA,GLOBAL,,,Galit
+Bank of Intuit(France),bankofintuitnew.scr,Dudi,FRA,GLOBAL,,,Galit
+HSBC Bank (France) - Entreprises - Credit Card,hsbcbankccfr.scr,Dudi,FRA,GLOBAL,,,Galit
+ABN AMRO Commercial Finance (France) - BETA,abncommercialfr.scr,Dudi,FRA,GLOBAL,,,Galit
+Axa Banque (FRA) - BETA,axabanqfr.scr,Dudi,FRA,GLOBAL,,,Galit
+Banque BCP - Particuliers (France) - BETA,banquebcpfr.scr,Dudi,FRA,GLOBAL,,,Galit
+Banque Courtois Professionnels - Beta,banquecourtoisfr.scr,Dudi,FRA,GLOBAL,,,Galit
+Banque Fiducial,banquefiducialfr.scr,Dudi,FRA,GLOBAL,,,Galit
+Banque Française Commerciale Océan Indien (BFCOI Online) - Beta,banquefrancaisefr.scr,Dudi,FRA,GLOBAL,,,Galit
+Bank Of Cyprus UK - Beta,bankofcyprus.scr,Dudi,GBR,GLOBAL,,,Galit
+Bank of Scotland (UK) - Corporate Online - Beta,bankofscotlandbiz.scr,Dudi,GBR,GLOBAL,,,Galit
+Charities Aid Foundation CAF (UK) - Beta,cafonlineuk.scr,Dudi,GBR,GLOBAL,,,Galit
+Silicon Valley Bank UK - Beta,silliconvalleybankuk.scr,Dudi,GBR,GLOBAL,,,Galit
+The Co-operative Bank (UK) - Personal and Credit Card,smilebankuk.scr,Dudi,GBR,GLOBAL,,,Galit
+IndusInd Bank,indusbank.scr,Dudi,IND,GLOBAL,,,Galit
+Allahabad Bank - Corporate,allahabadbankcorp.scr,Dudi,IND,GLOBAL,,,Galit
+Andhra Bank,andhrabank.scr,Dudi,IND,GLOBAL,,,Galit
+Canara Bank,canarabank.scr,Dudi,IND,GLOBAL,,,Galit
+N/A,acpefcu.scr,Dor,USA,US,,,Galit
+N/A,ersonline.scr,Dor,USA,US,,,Galit
+N/A,hypovereinsbank.scr,Dor,USA,US,,,Galit
+N/A,tdwaterhouseadvisor.scr,Dor,USA,US,,,Galit
+N/A,dsttower.scr,Dor,USA,US,,,Galit
+N/A,firstcalgary_canada.scr,Dor,USA,US,,,Galit
+N/A,fnbhooker.scr,Dor,USA,US,,,Galit
+N/A,shareonetower.scr,Dor,USA,US,,,Galit
+N/A,adirondack.scr,Dor,USA,US,,,Galit
+N/A,aigamerica.scr,Dor,USA,US,,,Galit
+N/A,cardview.scr,Dor,USA,US,,,Galit
+N/A,chryslerfinancial.scr,Dor,USA,US,,,Galit
+N/A,dubuquebank.scr,Dor,USA,US,,,Galit
+N/A,firstcitizensbob.scr,Dor,USA,US,,,Galit
+N/A,janneymontgomery.scr,Dor,USA,US,,,Galit
+N/A,keybank.scr,Dor,USA,US,,,Galit
+N/A,nwmutualins.scr,Dor,USA,US,,,Galit
+N/A,ohiovalleyinvestment.scr,Dor,USA,US,,,Galit
+N/A,painewebber.scr,Dor,USA,US,,,Galit
+N/A,purduefed.scr,Dor,USA,US,,,Galit
+N/A,unfcu.scr,Dor,USA,US,,,Galit
+N/A,wellscommercial.scr,Dor,USA,US,,,Galit
+N/A,audioteltower.scr,Dor,USA,US,,,Galit
+N/A,capitalcitysavings_canada.scr,Dor,USA,US,,,Galit
+N/A,creditfirstna.scr,Dor,USA,US,,,Galit
+N/A,greatwestlife.scr,Dor,USA,US,,,Galit
+N/A,itsme247.scr,Dor,USA,US,,,Galit
+N/A,kubota.scr,Dor,USA,US,,,Galit
+N/A,mthealthsaving.scr,Dor,USA,US,,,Galit
+N/A,sovereignbob.scr,Dor,USA,US,,,Galit
+N/A,aspire401k.scr,Dor,USA,US,,,Galit
+N/A,synovusbiz.scr,Dor,USA,US,,,Galit
+N/A,ccbankavs.scr,Dor,USA,US,,,Galit
+N/A,collegefoundation.scr,Dor,USA,US,,,Galit
+N/A,virginiasavings.scr,Dor,USA,US,,,Galit
+N/A,deptofinterior.scr,Dor,USA,US,,,Galit
+N/A,bankofthewest.scr,Dor,USA,US,,,Galit
+N/A,midwestservices.scr,Dor,USA,US,,,Galit
+N/A,onlineaccesstower.scr,Dor,USA,US,,,Galit
+N/A,sovereign.scr,Dor,USA,US,,,Galit
+N/A,webcashtower.scr,Dor,USA,US,,,Galit
+N/A,evantagetrust.scr,Dor,USA,US,,,Galit
+N/A,firstprogressmastercard.scr,Dor,USA,US,,,Galit
+N/A,hfcloan.scr,Dor,USA,US,,,Galit
+N/A,mangomoneycard.scr,Dor,USA,US,,,Galit
+N/A,midfloridafcu.scr,Dor,USA,US,,,Galit
+N/A,newyorkcommercialbank.scr,Dor,USA,US,,,Galit
+N/A,onlinencrtower.scr,Dor,USA,US,,,Galit
+N/A,readydebitgoldcard.scr,Dor,USA,US,,,Galit
+N/A,suncoastschoolsfcu.scr,Dor,USA,US,,,Galit
+N/A,woodforest.scr,Dor,USA,US,,,Galit
+N/A,laurentian_canada.scr,Dor,USA,US,,,Galit
+N/A,nbcanadabiz.scr,Dor,USA,US,,,Galit
+N/A,providentcu.scr,Dor,USA,US,,,Galit
+N/A,traviscreditunion.scr,Dor,USA,US,,,Galit
+N/A,wfnnbcctower2.scr,Dor,USA,US,,,Galit
+N/A,decimal401k.scr,Dor,USA,US,,,Galit
+N/A,metlifeeservice.scr,Dor,USA,US,,,Galit
+N/A,minifinancial.scr,Dor,USA,US,,,Galit
+N/A,moneynetwork.scr,Dor,USA,US,,,Galit
+N/A,nationwide401k.scr,Dor,USA,US,,,Galit
+N/A,neubergerberman.scr,Dor,USA,US,,,Galit
+N/A,newmillenium.scr,Dor,USA,US,,,Galit
+N/A,northtexas.scr,Dor,USA,US,,,Galit
+N/A,perfectteller.scr,Dor,USA,US,,,Galit
+N/A,popularmortgage.scr,Dor,USA,US,,,Galit
+N/A,primerica.scr,Dor,USA,US,,,Galit
+N/A,prudentialfinancial.scr,Dor,USA,US,,,Galit
+N/A,prudentialretirement.scr,Dor,USA,US,,,Galit
+N/A,putnam.scr,Dor,USA,US,,,Galit
+N/A,aimbank.scr,Daniel,USA,US,,,Galit
+N/A,facecard.scr,Daniel,USA,US,,,Galit
+N/A,lincolnfinancialretirement.scr,Daniel,USA,US,,,Galit
+N/A,secumaryland.scr,Daniel,USA,US,,,Galit
+N/A,marcusloan.scr,Daniel,USA,US,,,Galit
+N/A,keybankbusiness.scr,Daniel,USA,US,,,Galit
+N/A,nationallife.scr,Daniel,USA,US,,,Galit
+N/A,sandiegocountycu.scr,Veronik,USA,US,,,Galit
+N/A,amexatwork.scr,Daniel,USA,US,,,Galit
+N/A,bankofcolorado.scr,Daniel,USA,US,,,Galit
+N/A,brinkercaptial.scr,Daniel,USA,US,,,Galit
+N/A,citiretailcc.scr,Daniel,USA,US,,,Galit
+N/A,cruisetower.scr,Daniel,USA,US,,,Galit
+N/A,edulinx_canada.scr,Daniel,USA,US,,,Galit
+N/A,hsbcbrokerage_canada.scr,Daniel,USA,US,,,Galit
+N/A,lionbank.scr,Daniel,USA,US,,,Galit
+N/A,pcfinancialcard_canada.scr,Daniel,USA,US,,,Galit
+N/A,penscotrust.scr,Daniel,USA,US,,,Galit
+N/A,tdwaterhouse_canada.scr,Daniel,USA,US,,,Galit
+N/A,temenostower.scr,Veronik,USA,US,,,Galit
+N/A,cibc_canada.scr,Daniel,USA,US,,,Galit
+N/A,desjardinbusiness_canada.scr,Daniel,USA,US,,,Galit
+N/A,pcstower.scr,Daniel,USA,US,,,Galit
+N/A,questrade_canada.scr,Daniel,USA,US,,,Galit
+N/A,commonwealthfinancial.scr,Daniel,USA,US,,,Galit
+N/A,disbank.scr,Daniel,USA,US,,,Galit
+N/A,hunting.scr,Daniel,USA,US,,,Galit
+N/A,nationwidebankmortgage.scr,Daniel,USA,US,,,Galit
+N/A,quickenloansschwab.scr,Daniel,USA,US,,,Galit
+N/A,rbcinvest_canada.scr,Daniel,USA,US,,,Galit
+N/A,rbcroyalbank_canada.scr,Daniel,USA,US,,,Galit
+N/A,riverview.scr,Daniel,USA,US,,,Galit
+N/A,rochdaleinves.scr,Daniel,USA,US,,,Galit
+N/A,rydexinvestments.scr,Daniel,USA,US,,,Galit
+N/A,safeamerica.scr,Daniel,USA,US,,,Galit
+N/A,schwabbank.scr,Daniel,USA,US,,,Galit
+N/A,scottradeinvmgmt.scr,Daniel,USA,US,,,Galit
+N/A,securityservicefcu.scr,Daniel,USA,US,,,Galit
+N/A,shellmortgage.scr,Daniel,USA,US,,,Galit
+N/A,sunovacreditunion.scr,Daniel,USA,US,,,Galit
+N/A,tfcu.scr,Daniel,USA,US,,,Galit
+N/A,fifththirdhsa.scr,Dana,USA,US,,,Galit
+N/A,accurecordparticipant.scr,Dana,USA,US,,,Galit
+N/A,acorns.scr,Dana,USA,US,,,Galit
+N/A,agfinancial.scr,Dana,USA,US,,,Galit
+N/A,altegrisinves.scr,Dana,USA,US,,,Galit
+N/A,americanequity.scr,Dana,USA,US,,,Galit
+N/A,americanhonda.scr,Dana,USA,US,,,Galit
+N/A,anico.scr,Dana,USA,US,,,Galit
+N/A,atrs.scr,Dana,USA,US,,,Galit
+N/A,avantloans.scr,Dana,USA,US,,,Galit
+N/A,avatar109X.scr,Dana,USA,US,,,Galit
+N/A,bancogenpanama.scr,Dana,USA,US,,,Galit
+N/A,barclaysbankus.scr,Dana,USA,US,,,Galit
+N/A,benefitplanservices.scr,Dana,USA,US,,,Galit
+N/A,benefitswebtower.scr,Dana,USA,US,,,Galit
+N/A,bizx.scr,Dana,USA,US,,,Galit
+N/A,bmofinancialinvestor_canada.scr,Dana,USA,US,,,Galit
+N/A,bmonesbittburns.scr,Dana,USA,US,,,Galit
+N/A,bndstudentloan.scr,Dana,USA,US,,,Galit
+N/A,boavisacard.scr,Dana,USA,US,,,Galit
+N/A,cambriancu.scr,Dana,USA,US,,,Galit
+N/A,cbumortgage.scr,Dana,USA,US,,,Galit
+N/A,ccbankbim.scr,Dana,USA,US,,,Galit
+N/A,cfnacreditcard.scr,Dana,USA,US,,,Galit
+N/A,chasegiftcard.scr,Dana,USA,US,,,Galit
+N/A,chimebanking.scr,Dana,USA,US,,,Galit
+N/A,circle.scr,Dana,USA,US,,,Galit
+N/A,citiprepaidcard.scr,Dana,USA,US,,,Galit
+N/A,cmsnwtower.scr,Dana,USA,US,,,Galit
+N/A,cnbank.scr,Dana,USA,US,,,Galit
+N/A,cnbtreasury.scr,Dana,USA,US,,,Galit
+N/A,coastalfederalcu.scr,Dana,USA,US,,,Galit
+N/A,comppreferred.scr,Dana,USA,US,,,Galit
+N/A,cpsecuscr.scr,Dana,USA,US,,,Galit
+N/A,cunagroup.scr,Dana,USA,US,,,Galit
+N/A,dciinvestor.scr,Dana,USA,US,,,Galit
+N/A,dfasmilitary.scr,Dana,USA,US,,,Galit
+N/A,digit.scr,Dana,USA,US,,,Galit
+N/A,dollarbank.scr,Dana,USA,US,,,Galit
+N/A,drsretirement.scr,Dana,USA,US,,,Galit
+N/A,entfcu_ws.scr,Dana,USA,US,,,Galit
+N/A,everhomemortgage.scr,Dana,USA,US,,,Galit
+N/A,fcsaagripoint.scr,Dana,USA,US,,,Galit
+N/A,firstcommand.scr,Dana,USA,US,,,Galit
+N/A,firsthawaiian.scr,Dana,USA,US,,,Galit
+N/A,firstsavingscc.scr,Dana,USA,US,,,Galit
+N/A,forumcu.scr,Dana,USA,US,,,Galit
+N/A,fundrise.scr,Dana,USA,US,,,Galit
+N/A,goldmanprivate.scr,Dana,USA,US,,,Galit
+N/A,guardian.scr,Dana,USA,US,,,Galit
+N/A,hsbcretailservicescc.scr,Dana,USA,US,,,Galit
+N/A,hsbcusmortgage.scr,Dana,USA,US,,,Galit
+N/A,hyundaiautoloan.scr,Dana,USA,US,,,Galit
+N/A,ibankautoloans.scr,Dana,USA,US,,,Galit
+N/A,investor360.scr,Dana,USA,US,,,Galit
+N/A,iqcubus.scr,Dana,USA,US,,,Galit
+N/A,iunyhart.scr,Dana,USA,US,,,Galit
+N/A,jackhenry.scr,Dana,USA,US,,,Galit
+N/A,jefferson.scr,Dana,USA,US,,,Galit
+N/A,jhannuities.scr,Dana,USA,US,,,Galit
+N/A,kiafinance.scr,Dana,USA,US,,,Galit
+N/A,loanwaretower.scr,Noa,USA,US,,,Galit
+N/A,lplfinancial.scr,Dana,USA,US,,,Galit
+N/A,minsateretirement.scr,Dana,USA,US,,,Galit
+N/A,mutualofamerica.scr,Dana,USA,US,,,Galit
+N/A,nationalbankcn.scr,Dana,USA,US,,,Galit
+N/A,nbonline_canada.scr,Dana,USA,US,,,Galit
+N/A,neteller.scr,Dana,USA,US,,,Galit
+N/A,neuberger.scr,Dana,USA,US,,,Galit
+N/A,nevadafcu.scr,Dana,USA,US,,,Galit
+N/A,opandf.scr,Dana,USA,US,,,Galit
+N/A,pacificlifeins.scr,Dana,USA,US,,,Galit
+N/A,paypowerprepcard.scr,Matan,USA,US,,,Galit
+N/A,prudentialannuities.scr,Dana,USA,US,,,Galit
+N/A,pscu.scr,Dana,USA,US,,,Galit
+N/A,purepoint.scr,Dana,USA,US,,,Galit
+N/A,rdhomeloans.scr,Dana,USA,US,,,Galit
+N/A,retirementservicetower.scr,Dana,USA,US,,,Galit
+N/A,riversourceinves.scr,Dana,USA,US,,,Galit
+N/A,rjamescanada.scr,Dana,USA,US,,,Galit
+N/A,rushcardlive.scr,Dana,USA,US,,,Galit
+N/A,schwabretirement.scr,Dana,USA,US,,,Galit
+N/A,securianrcapi.scr,Dana,USA,US,,,Galit
+N/A,sfmutualbank.scr,Dana,USA,US,,,Galit
+N/A,solium.scr,Dana,USA,US,,,Galit
+N/A,sovereigniris.scr,Dana,USA,US,,,Galit
+N/A,standardlife.scr,Matan,USA,US,,,Galit
+N/A,studentloanfinance.scr,Dana,USA,US,,,Galit
+N/A,sunamerica.scr,Dana,USA,US,,,Galit
+N/A,symetrafinancial.scr,Dana,USA,US,,,Galit
+N/A,teachersretirementofnyc.scr,Dana,USA,US,,,Galit
+N/A,thriventfinancial.scr,Dana,USA,US,,,Galit
+N/A,tiaacref.scr,Dana,USA,US,,,Galit
+N/A,toyotafinancial.scr,Dana,USA,US,,,Galit
+N/A,tradestationsecurities.scr,Matan,USA,US,,,Galit
+N/A,transamerica.scr,Dana,USA,US,,,Galit
+N/A,trustcompanyofamerica401k.scr,Dana,USA,US,,,Galit
+N/A,twentyfirstmortgage.scr,Dana,USA,US,,,Galit
+N/A,ultraaccess.scr,Dana,USA,US,,,Galit
+N/A,upromise.scr,Dana,USA,US,,,Galit
+N/A,usbankvisabuxx.scr,Dana,USA,US,,,Galit
+N/A,utaheducsavplan.scr,Dana,USA,US,,,Galit
+N/A,uwcu_webservice.scr,Noa,USA,US,,,Galit
+N/A,vancitycu_canada.scr,Matan,USA,US,,,Galit
+N/A,wachoviaconnectk.scr,Dana,USA,US,,,Galit
+N/A,wealthbar.scr,Dana,USA,US,,,Galit
+N/A,wilmington.scr,Dana,USA,US,,,Galit
+N/A,yourmortage.scr,Dana,USA,US,,,Galit
+N/A,citycountycu.scr,Dana,USA,US,,,Galit`}
