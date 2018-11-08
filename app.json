@@ -1,16 +1,18 @@
 {
   "expo": {
-    "name": "FDS-Owners",
-    "description": "This project is really great.",
+    "name": "FDS Ownership",
+    "description": "For the mighty FDS managers",
     "slug": "FDS-Owners",
     "privacy": "public",
     "sdkVersion": "30.0.0",
-    "platforms": ["ios", "android"],
+    "platforms": [
+      "android"
+    ],
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/giant_icon.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/giant_splash2.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -20,8 +22,9 @@
     "assetBundlePatterns": [
       "**/*"
     ],
-    "ios": {
-      "supportsTablet": true
+    "android": {
+
+      "package": "com.mufmufim.fds_owner"
     }
   }
 }

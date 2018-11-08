@@ -1,38 +1,41 @@
-import React from 'react';
-import { StyleSheet, Text, View, TextInput, TouchableHighlight, FlatList } from 'react-native';
+import React, { Component } from "react";
+import { StyleSheet, Text, View, TextInput, TouchableHighlight, FlatList, ActivityIndicator, Platform } from 'react-native';
+import { MaterialCommunityIcons } from '@expo/vector-icons';
 import { ownersDataApi } from "../api/OwnersDataApi";
 
-const dataList = [
-    {
-        CheckCred: "",
-        Country: "USA",
-        Owner: "Ziv",
-        Provider_Name: "N/A",
-        Status: "",
-        Team: "US",
-        manager: "Galit",
-        script_name: "commercebank.scr"
-    }, {
-        CheckCred: "",
-        Country: "USA",
-        Owner: "Ziv",
-        Provider_Name: "N/A",
-        Status: "",
-        Team: "US",
-        manager: "Galit",
-        script_name: "desjardin_canada.scr"
-    }, {
-        CheckCred: "",
-        Country: "USA",
-        Owner: "Ziv",
-        Provider_Name: "N/A",
-        Status: "",
-        Team: "US",
-        manager: "Galit",
-        script_name: "desjardinbrok.scr"
-    } ];
-
-export default class App extends React.Component {
+class OwnerView extends Component {
+    static navigationOptions = ({ navigation }) => {
+        return {
+            headerLeft: (
+                <TouchableHighlight
+                    underlayColor={"transparent"}
+                    activeOpacity={0.5}
+                    style={{ paddingLeft: 15}}
+                    onPress={()=>{
+                        navigation.openDrawer();
+                    }}>
+                    <MaterialCommunityIcons
+                        backgroundColor={"transparent"}
+                        name={"menu"}
+                        size={24}
+                        color="#ededed"/>
+                </TouchableHighlight>
+            ),
+            headerRight: (
+                <TouchableHighlight
+                    underlayColor={"transparent"}
+                    activeOpacity={0.5}
+                    style={{ paddingRight: 15}}
+                    onPress={navigation.getParam('refreshData')}>
+                    <MaterialCommunityIcons
+                        backgroundColor={"transparent"}
+                        name={"refresh"}
+                        size={24}
+                        color="#ededed"/>
+                </TouchableHighlight>
+            ),
+        };
+    };
 
     constructor() {
         super();
@@ -40,61 +43,76 @@ export default class App extends React.Component {
 
         this.state = {
             searchValue: "",
-            selectedType: "Script",
+            selectedType: "scriptName",
+            exactMatch: false,
+            loading: true,
             filteredData: null
         }
     }
+    componentDidMount(){
+        this.props.navigation.setParams({ refreshData: this.refreshData });
+    }
+
+    refreshData = ()=> {
+        this.setState({ loading: true}, async ()=> {
+            this.scriptOwnersData = await ownersDataApi.getScriptOwnersData(true);
+            this.mintDetails = await ownersDataApi.getMintDetails(true);
+            this.setDataList(this.state.selectedType);
+            let filteredData = this.searchAndFilter(this.state.searchValue, this.state.selectedType, this.state.exactMatch);
+            this.setState({ filteredData, loading: false });
+        });
+    };
 
     async getData() {
 
         console.log("----------- Data, before");
+        await ownersDataApi.storageData();
+        await ownersDataApi.getMetaData();
+        await ownersDataApi.syncIfNeeded();
         this.scriptOwnersData = await ownersDataApi.getScriptOwnersData();
         this.mintDetails = await ownersDataApi.getMintDetails();
         this.setDataList(this.state.selectedType);
-        this.searchAndFilter(this.state.searchValue, this.selectedType);
-        // console.log("----------- Data, after", JSON.stringify(data));
-        // this.setState({ data });
+        let filteredData = this.searchAndFilter(this.state.searchValue, this.state.selectedType, this.state.exactMatch);
+        this.setState({ filteredData, loading: false });
     }
-
-    getOwnerById = (id) => {
-
-    };
     setDataList= (type) =>{
         switch (type) {
-            case "FI-ID":
-                this.dataList = this.mintDetails.result;
+            case "id":
+                this.dataList = this.mintDetails && this.mintDetails.result;
                 break;
-            case "Script":
-                this.dataList = this.scriptOwnersData.result;
+            case "scriptName":
+                this.dataList = this.scriptOwnersData && this.scriptOwnersData.result;
                 break;
-            case "FI-Name":
-                this.dataList = this.mintDetails.result;
+            case "fiName":
+                this.dataList = this.mintDetails && this.mintDetails.result;
         }
     };
 
-    searchAndFilter = (text, type) => {
+    searchAndFilter = (text, type, exactMatch) => {
         let filteredData = [];
-        if (text && (text.length > 2 || type === "FI-ID") && this.dataList && this.scriptOwnersData && this.mintDetails ) {
+        if (text && (text.length > 2 || (type === "id" && text.length > 0)) && this.dataList ) {
             let tempFilteredData = {};
-            let regexText = new RegExp(text, "i");
+            let regexPattern = text;
+            if (exactMatch){
+                regexPattern = "^"+text+"(\\.\\w*)?$";
+            }
+            let regexText = new RegExp(regexPattern, "i");
             this.dataList.filter(data => {
-                switch (type) {
-                    case "FI-ID":
-                        return text == data.id;
-                    case "Script":
-                        return regexText.test(data.scriptName);
-                    case "FI-Name":
-                        return regexText.test(data.fiName);
-                }
+                return regexText.test(data[type]);
             }).forEach((data, index) => {
+                let scriptName = data.scriptName || data["CHANNEL_TYPE_NAME"];
+                let scriptData = this.scriptOwnersData.resultByKey[scriptName];
                 filteredData.push({
-                    scriptName: data.scriptName,
-                    Owner: this.scriptOwnersData.resultByKey[data.scriptName][0].Owner,
-                    extraData: this.mintDetails.resultByKey[data.scriptName]
+                    scriptName: scriptName,
+                    Owner: scriptData ? scriptData[0].Owner : "N/A",
+                    Country: scriptData ? scriptData[0].Country : "N/A",
+                    Team: scriptData ? scriptData[0].Team : "N/A",
+                    manager: scriptData ? scriptData[0].Manager : "N/A",
+                    extraData: this.mintDetails.resultByKey[scriptName]
                 });
             });
-            if (["FI-Name", "Script"].indexOf(type) > -1){
-                let textChanged = text.toUpperCase();
+            let textChanged = text.toUpperCase();
+            if (!exactMatch){
                 filteredData.sort((data1, data2)=>{
                     let d1ScriptName = (data1.scriptName || "").toUpperCase();
                     let d1FiName = (data1.fiName || "").toUpperCase();
@@ -118,46 +136,21 @@ export default class App extends React.Component {
     };
 
     onSearchChange = (text) => {
-        let filteredData = this.searchAndFilter(text, this.state.selectedType);
-        // if (text){
-        //     let tempFilteredData = {};
-        //     let regexText = new RegExp(text, "i");
-        //     dataList.filter(data=>{
-        //         switch (this.state.selectedType){
-        //             case "FI-ID":
-        //                 return text == data.id;
-        //             case "FI-Script":
-        //                 return regexText.test(data.scriptName);
-        //             case "FI-Name":
-        //                 return regexText.test(data.fiName);
-        //         }
-        //     }).forEach((data, index) => {
-        //         if (tempFilteredData[data.scriptName + data.Owner] || tempFilteredData[data.scriptName + data.Owner] === 0){
-        //             filteredData[tempFilteredData[data.scriptName + data.Owner]].extraData.push({
-        //                 fiName: data.fiName,
-        //                 id: data.id
-        //             })
-        //         } else {
-        //             tempFilteredData[ data.scriptName + data.Owner ] = index;
-        //             filteredData.push({
-        //                 scriptName: data.scriptName,
-        //                 Owner: data.Owner,
-        //                 extraData: [{
-        //                     fiName: data.fiName,
-        //                     id: data.id
-        //                 }]
-        //             });
-        //         }
-        //     });
-        // }
+        let filteredData = this.searchAndFilter(text, this.state.selectedType, this.state.exactMatch);
         this.setState({ searchValue: text, filteredData });
     };
-    //INSTITUTION_ID
     selectType = (newType) => {
         this.setDataList(newType);
-        // this.dataList = this.state.data
-        let filteredData = this.searchAndFilter(this.state.searchValue, newType);
-        this.setState({ selectedType: newType, filteredData });
+        let filteredData = this.searchAndFilter(this.state.searchValue, newType, this.state.exactMatch);
+        this.setState({ selectedType: newType, filteredData, exactMatch: newType === "id" });
+    };
+
+    changeMatch = () => {
+        let exactMatch = this.state.selectedType === "id" || !this.state.exactMatch;
+        if (this.state.exactMatch !== exactMatch) {
+            let filteredData = this.searchAndFilter(this.state.searchValue, this.state.selectedType, exactMatch);
+            this.setState({ exactMatch, filteredData });
+        }
     };
 
     getHighlight = (text, expectedType, style, key)=>{
@@ -178,153 +171,156 @@ export default class App extends React.Component {
         if ( item.extraData && item.extraData.length > 0) {
 
             let res = item.extraData.slice(0, 4).map((data, i) => {
-                return <Text selectable={true}
-                             key={`extraData-${data.id}-${index}-${i}`}>{this.getHighlight(data.id, "FI-ID", styles.extraData) ||
-                "no ID"} - {this.getHighlight(data.fiName, "FI-Name", styles.extraData) || "no Name"}</Text>
+                return <Text
+                    selectable={true}
+                    style={styles.namePair}
+                    key={`extraData-${data.id}-${index}-${i}`}>
+                <Text selectable={true}>{this.getHighlight(data.id, "id", [styles.extraData, {fontWeight: "bold"}]) ||
+                "no ID"} - </Text>
+                    <Text selectable={true}>{this.getHighlight(data.fiName, "fiName", styles.extraData) || "no Name"}</Text>
+                </Text>
             });
             if (item.extraData.length > 4){
-                if (["FI-ID", "FI-Name"].indexOf(this.state.selectedType) > -1 ){
+                let missingOne = 0;
+                if (["id", "fiName"].indexOf(this.state.selectedType) > -1 ){
                     let regexText = new RegExp(this.state.searchValue, "i");
                     let matchResult =  item.extraData.findIndex(data=>{
                         switch (this.state.selectedType){
-                            case "FI-ID":
+                            case "id":
                                 return data.id === this.state.searchValue;
-                            case "FI-Name":
+                            case "fiName":
                                 return regexText.test(data.fiName);
                         }
                     });
                     if (matchResult > 4){
                         let data = item.extraData[matchResult];
-                        res.push(<Text selectable={true}
-                                       key={`extraData-${data.id}-${index}-${matchResult}`}>{this.getHighlight(data.id, "FI-ID", styles.extraData) ||
-                        "no ID"} - {this.getHighlight(data.fiName, "FI-Name", styles.extraData) || "no Name"}</Text>);
+                        missingOne = 1;
+                        res.push(
+                            <Text
+                                selectable={true}
+                                style={styles.namePair}
+                                key={`extraData-${data.id}-${index}-${matchResult}`}>
+                                <Text selectable={true}>{this.getHighlight(data.id, "id", [styles.extraData, {fontWeight: "bold"}]) ||
+                        "no ID"} -
+                                </Text>
+                                <Text selectable={true}>{this.getHighlight(data.fiName, "fiName", styles.extraData) || "no Name"}</Text>
+                            </Text>);
                     }
                 }
-                res.push(<Text key={`extraData-${index}-5`}>...</Text>);
+                res.push(<Text key={`extraData-${index}-5`}>... <Text style={styles.more}>+{item.extraData.length - 4 - missingOne}</Text></Text>);
             }
             return res;
         }
         return <Text key={`extraData-${index}`}>N/A</Text>
     };
-    //<Text selectable={true} style={styles.topLeft}>{item.scriptName}</Text>
     renderResult = ({ item , index}) => {
-        // Script      Owner
-        // name
-        // id
 
-        return <View style={styles.rowsItem}>
-            <View style={styles.pair}>
-                {this.getHighlight(item.scriptName, "Script", styles.topLeft)}
-                <Text selectable={true} style={styles.topRight}>{item.Owner}</Text>
-            </View>
-            <View style={styles.extraData}>
-                {
-                    this.getIdNameValues(item, index)
-                }
-            </View>
-        </View>;
-        // return <View style={styles.pair}>
-        //         <Text>{item.id || "no ID"}</Text>
-        //         <Text>{item.fiName || "no Name"}</Text>
-        //         <Text>{item.scriptName || "no Script"}</Text>
-        //         <Text>{item.Owner || "no Owner"}</Text>
-        //     </View>;
         //
-        // return <View>
-        //     <View style={styles.pair}>
-        //         <Text>FI ID: </Text>
-        //         <Text>{item.id || "no ID"}</Text>
-        //     </View>
-        //     <View style={styles.pair}>
-        //         <Text>FI Name: </Text>
-        //         <Text>{item.fiName || "no Name"}</Text>
-        //     </View>
-        //     <View style={styles.pair}>
-        //         <Text>FI Script: </Text>
-        //         <Text>{item.scriptName || "no Script"}</Text>
-        //     </View>
-        //     <View style={styles.pair}>
-        //         <Text>FI Owner: </Text>
-        //         <Text>{item.Owner || "no Owner"}</Text>
-        //     </View>
-        // </View>;
+        return <TouchableHighlight
+            underlayColor={"transparent"}
+            activeOpacity={0.5}
+                onPress={() => this.props.navigation.navigate('DetailsView', {title: `${item.scriptName}`, item})}
+                >
+                    <View style={styles.rowsItem}>
+                    <View style={styles.pair}>
+                        {this.getHighlight(item.scriptName, "scriptName", styles.topLeft)}
+                        <Text selectable={true} style={styles.topRight}>{item.Owner}</Text>
+                    </View>
+                    <View style={styles.extraData}>
+                        {
+                            this.getIdNameValues(item, index)
+                        }
+                    </View>
+            </View>
+
+        </TouchableHighlight>;
     };
     keyExtractor = (item, index) => {
         return `result-${item}${index}`;
+    };
+    emptyList = ()=>{
+        if (this.state.loading){
+            return null;
+        }
+        if (this.dataList && this.dataList.length && this.state.searchValue.length > 2){
+            return <Text>No matching result</Text>
+        }
+        return <Text>Search to see results</Text>
     };
 
     render() {
         return (
             <View style={styles.container}>
-                <Text style={styles.header}>FDS Owners</Text>
-
-                <View style={styles.bodyContainer}>
                 <TextInput
                     style={styles.searchInput}
                     value={this.state.searchValue}
                     onChangeText={this.onSearchChange}
+                    autoFocus={true}
                     underlineColorAndroid={"#0077C5"}
+                    returnKeyType={"search"}
                     placeholder={"search"}/>
-                <View style={styles.typeSelection}>
-                    {/*<Button*/}
-                    {/*style={styles.typeButton}*/}
-                    {/*color={this.state.selectedType === "FI-ID" ? "#0077C5" : "#ababab"}*/}
-                    {/*title={"FI ID"}*/}
-                    {/*onPress={()=>this.selectType("FI-ID")}/>*/}
+                <View style={styles.typeRow}>
                     <TouchableHighlight
-                        underlayColor={"#0077C5"}
+                        underlayColor={"transparent"}
                         activeOpacity={0.5}
-                        style={[ styles.typeButton, this.state.selectedType === "Script" ? styles.selectedButton : null ]}
-                        // title={"FI ID"}
-                        onPress={() => this.selectType("Script")}>
-                        <Text style={styles.buttonText}>Script</Text>
+                        onPress={this.changeMatch}>
+                        <View style={styles.exactMatch}>
+                            {this.state.exactMatch ?
+                                <MaterialCommunityIcons
+                                    backgroundColor={"transparent"}
+                                    name={"target"}
+                                    size={20}
+                                    color="#333"/> :
+                                <MaterialCommunityIcons
+                                    backgroundColor={"transparent"}
+                                    name={"regex"}
+                                    size={20}
+                                    color="#333"/>
+                            }
+                            <Text style={styles.matchText}>{this.state.exactMatch? "Match" : "Regex"}</Text>
+                        </View>
                     </TouchableHighlight>
-                    <TouchableHighlight
-                        underlayColor={"#0077C5"}
-                        activeOpacity={0.5}
-                        style={[ styles.typeButton, this.state.selectedType === "FI-ID" ? styles.selectedButton : null ]}
-                        // title={"FI ID"}
-                        onPress={() => this.selectType("FI-ID")}>
-                        <Text style={styles.buttonText}>FI ID</Text>
-                    </TouchableHighlight>
-                    <TouchableHighlight
-                        underlayColor={"#0077C5"}
-                        activeOpacity={0.5}
-                        style={[ styles.typeButton, this.state.selectedType === "FI-Name" ? styles.selectedButton : null ]}
-                        // title={"FI ID"}
-                        onPress={() => this.selectType("FI-Name")}>
-                        <Text style={styles.buttonText}>FI Name</Text>
-                    </TouchableHighlight>
+
+                    <View style={styles.typeSelection}>
+                        <TouchableHighlight
+                            underlayColor={"#0077C5"}
+                            activeOpacity={0.5}
+                            style={[ styles.typeButton, this.state.selectedType === "scriptName" ? styles.selectedButton : null ]}
+                            onPress={() => this.selectType("scriptName")}>
+                            <Text style={styles.buttonText}>Script</Text>
+                        </TouchableHighlight>
+                        <TouchableHighlight
+                            underlayColor={"#0077C5"}
+                            activeOpacity={0.5}
+                            style={[ styles.typeButton, this.state.selectedType === "id" ? styles.selectedButton : null ]}
+                            onPress={() => this.selectType("id")}>
+                            <Text style={styles.buttonText}>FI ID</Text>
+                        </TouchableHighlight>
+                        <TouchableHighlight
+                            underlayColor={"#0077C5"}
+                            activeOpacity={0.5}
+                            style={[ styles.typeButton, this.state.selectedType === "fiName" ? styles.selectedButton : null ]}
+                            onPress={() => this.selectType("fiName")}>
+                            <Text style={styles.buttonText}>FI Name</Text>
+                        </TouchableHighlight>
+                    </View>
                 </View>
                 <FlatList
+                    showsVerticalScrollIndicator={false}
+                    showsHorizontalScrollIndicator={false}
+                    refreshing={this.state.loading}
                     style={styles.resultsContainer}
                     data={this.state.filteredData}
                     keyExtractor={this.keyExtractor}
                     renderItem={this.renderResult}
+                    ListEmptyComponent={this.emptyList}
                 />
-                {this.state.selectedData ? (
-                        <View>
-                            <View style={styles.pairs}>
-                                <Text>Owner: </Text>
-                                <Text>{this.state.owner}</Text>
-                            </View>
-                            <View>
-                                <Text>FI ID: </Text>
-                                <Text>{this.state.selectedData.Owner}</Text>
-                            </View>
-                            <View>
-                                <Text>FI Name: </Text>
-                                <Text>{this.state.selectedData.fiName}</Text>
-                            </View>
-                            <View>
-                                <Text>FI Script: </Text>
-                                <Text>{this.state.selectedData.scriptName}</Text>
-                            </View>
-                        </View>
-                    ) :
-                    null
+                {
+                    this.state.loading?
+                        <View style={styles.loadingIndicator}>
+                            <ActivityIndicator size="large"/>
+                        </View>: null
                 }
-                </View>
             </View>
         );
     }
@@ -334,40 +330,43 @@ const styles = StyleSheet.create({
     container: {
         flex: 1,
         backgroundColor: '#fff',
-        // alignItems: 'center',
-    },
-    header: {
-        alignSelf: "center",
-        height: 44,
-        textAlign: "center",
-        backgroundColor: "#0077C5",
-        width: "100%",
-        marginTop: 24,
-        elevation: 4
-    },
-    bodyContainer: {
-        flex: 1,
-        backgroundColor: '#fff',
-        // alignItems: 'center',
-        marginHorizontal: 22,
+        paddingHorizontal: 22
     },
     searchInput: {
         padding: 5,
         marginTop: 10,
         fontSize: 16,
-        width: "75%",
-        alignSelf: "center"
+        width: "72%",
+        alignSelf: "center",
+        borderBottomWidth: Platform.select({ios: 1}),
+        borderBottomColor: "#0077C5"
+    },
+    typeRow: {
+        flexDirection: "row",
+        justifyContent: "center",
+        alignItems: "center",
+        marginTop: 10,
+        width: "100%",
+        left: -20
+    },
+    exactMatch: {
+        paddingTop: 4,
+        alignItems: "center",
+        justifyContent: "center"
+    },
+    matchText: {
+        fontSize: 9
     },
     typeSelection: {
         flexDirection: "row",
         alignSelf: "center",
         width: "80%",
-        marginTop: 10,
         justifyContent: "space-around",
         borderRadius: 25,
         borderWidth: 1,
         borderColor: "transparent",
-        overflow: "hidden"
+        overflow: "hidden",
+        marginLeft: 15
     },
     typeButton: {
         flex: 1,
@@ -391,19 +390,23 @@ const styles = StyleSheet.create({
     rowsItem: {
         marginTop: 10,
         paddingBottom: 10,
-        borderBottomWidth: 0.5
+        borderBottomWidth: 0.25
     },
     pair: {
         flexDirection: "row",
         width: "90%",
         justifyContent: "space-between",
     },
+    namePair: {
+        flexDirection: "row",
+    },
     highlight:{
         fontWeight: "bold"
     },
     topLeft: {
-        fontSize: 16,
+        fontSize: 18,
         color: "#0077C5",
+        fontWeight: "bold"
     },
     topRight: {
         fontSize: 16,
@@ -411,10 +414,26 @@ const styles = StyleSheet.create({
         fontWeight: "bold"
     },
     extraData: {
-        paddingVertical: 5,
+        paddingTop: 10,
+        paddingBottom: 5,
         paddingHorizontal: 20
     },
     details: {
         fontSize: 12
+    },
+    more: {
+        fontSize: 11
+    },
+    loadingIndicator: {
+        position: "absolute",
+        justifyContent: "center",
+        alignItems: "center",
+        width: "100%",
+        top: 140,
+        flex: 1
     }
 });
+
+
+export default OwnerView;
+export { OwnerView };
