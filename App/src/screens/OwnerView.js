@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { StyleSheet, Text, View, TextInput, TouchableHighlight, FlatList, ActivityIndicator, Platform } from 'react-native';
+import { StyleSheet, Text, View, TextInput, TouchableHighlight, FlatList, ActivityIndicator, Platform, Keyboard } from 'react-native';
 import { MaterialCommunityIcons } from '@expo/vector-icons';
 import { ownersDataApi } from "../api/OwnersDataApi";
 
@@ -12,6 +12,7 @@ class OwnerView extends Component {
                     activeOpacity={0.5}
                     style={{ paddingLeft: 15}}
                     onPress={()=>{
+                        Keyboard.dismiss();
                         navigation.openDrawer();
                     }}>
                     <MaterialCommunityIcons

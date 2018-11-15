@@ -5,6 +5,7 @@ import {
 	ActivityIndicator,
 	TextInput,
 	FlatList,
+    Keyboard,
 	Text,
     View
 } from 'react-native';
@@ -22,6 +23,7 @@ export class OwnershipHistory extends Component {
 					activeOpacity={0.5}
 					style={{ paddingLeft: 15 }}
 					onPress={() => {
+                        Keyboard.dismiss()
 						navigation.openDrawer();
 					}}>
 					<MaterialCommunityIcons

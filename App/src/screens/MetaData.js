@@ -4,6 +4,7 @@ import {
     TouchableHighlight,
     ActivityIndicator,
     TextInput,
+    Keyboard,
     FlatList,
     Text,
     View
@@ -22,6 +23,7 @@ export class MetaData extends Component {
                     activeOpacity={0.5}
                     style={{ paddingLeft: 15 }}
                     onPress={() => {
+                        Keyboard.dismiss();
                         navigation.openDrawer();
                     }}>
                     <MaterialCommunityIcons
@@ -81,40 +83,35 @@ export class MetaData extends Component {
     render() {
         let version = this.state.metaData[0];
         let date = this.state.metaData[1];
+        if (!version && !date){
+            return <View style={styles.container}><Text style={styles.title}>MetaData not loading</Text></View>
+        }
         return (
-            <View>
-                <Text>MetaData {this.state.metaData.length}</Text>
-                <View>
-                    <Text>Script Ownership Combined:</Text>
-                    <Text>{version.ScriptOwnershipCombined}</Text>
-                    <Text>{date.ScriptOwnershipCombined}</Text>
+            <View style={styles.container}>
+                <View >
+                    <Text style={styles.title}>Script Ownership Combined:</Text>
+                    <Text style={styles.content}>Version: {version ? version.ScriptOwnershipCombined : "**** no version ***"} ({date ? date.ScriptOwnershipCombined : "no date"})</Text>
                 </View>
                 <View>
-                    <Text>Mint Channel Details</Text>
-                    <Text>{version.MintChannelDetails}</Text>
-                    <Text>{date.MintChannelDetails}</Text>
+                    <Text style={styles.title}>Mint Channel Details</Text>
+                    <Text style={styles.content}>Version: {version ? version.MintChannelDetails : "**** no version ***"} ({date ? date.MintChannelDetails : "no date"})</Text>
                 </View>
-                <Text>{JSON.stringify(date)}</Text>
-                <FlatList
-                    showsVerticalScrollIndicator={false}
-                    showsHorizontalScrollIndicator={false}
-                    style={styles.resultsContainer}
-                    data={this.state.metaData}
-                    keyExtractor={this.keyExtractor}
-                    renderItem={this.renderResult}
-                    ListEmptyComponent={this.emptyList}
-                />
-                {
-                    this.state.loading?
-                        <View style={styles.loadingIndicator}>
-                            <ActivityIndicator size="large"/>
-                        </View>: null
-                }
             </View>
         );
     }
 }
 
 const styles = StyleSheet.create({
-    container: {}
+    container: {
+        padding: 20
+    },
+    title: {
+        fontSize: 16
+    },
+    content: {
+        fontSize: 14,
+        marginTop: 5,
+        marginBottom: 15,
+        marginLeft: 10
+    }
 });
